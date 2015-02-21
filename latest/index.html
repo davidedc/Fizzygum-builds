@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Morphic!</title>
+		<script type="text/javascript" src="js/zombie-kernel.js"></script>
+		<script type="text/javascript" src="js/libs/FileSaver.js"></script>
+		<script type="text/javascript" src="js/libs/jszip.min.js"></script>
+		<!--include test scripts here-->
+
+
+		<script type="text/javascript">			
+
+			var	worldCanvas, world, hi, hint1, hint2, pixelRatio;
+			// retina and high-dpi displays have something like
+			// 2 here
+			pixelRatio = 1;
+
+			window.onload = function () {
+				worldCanvas = document.getElementById('world');
+
+			    worldCanvas.width = Math.round(800 * pixelRatio);
+			    worldCanvas.height = Math.round(600 * pixelRatio);
+			    worldCanvas.style.width = "800px";
+			    worldCanvas.style.height = "600px";				
+
+				// Add "false" as second parameter below
+				// to fit the world in canvas as per dimensions
+				// specified in the canvas element. Fill entire
+				// page otherwise.
+			    if(window.location.href.indexOf("worldWithSystemTestHarness") > -1) {
+			    	// the user is here to record a system test so
+			    	// don't fill entire page cause there are some
+			    	// controls on the right side of the canvas
+					world = new WorldMorph(worldCanvas, false);
+			    }
+			    else {
+					world = new WorldMorph(worldCanvas, true);			    	
+			    }
+
+				world.isDevMode = true;
+
+				hi = new StringMorph(
+					'Hello, World!', 48, 'serif');
+				world.add(hi);
+				hi.isDraggable = true;
+				hi.isEditable = true;
+				hi.setPosition(new Point(275, 200));
+
+				hint1 = new StringMorph(
+					'right click...', 20, 'serif');
+				hint1.isDraggable = true;
+				hint1.isEditable = true;
+				hint1.setPosition(new Point(350, 270));
+				world.add(hint1);
+				
+				hint2 = new StringMorph(
+					'(or touch and hold)', 10, 'sans-serif');
+				hint2.isDraggable = true;
+				hint2.isEditable = true;
+				hint2.setPosition(hint1.bottomLeft());
+				world.add(hint2);
+
+				// shim layer with setTimeout fallback
+				window.requestAnimFrame = (function(){
+				  return  window.requestAnimationFrame       || 
+						  window.webkitRequestAnimationFrame || 
+						  window.mozRequestAnimationFrame    || 
+						  window.oRequestAnimationFrame      || 
+						  window.msRequestAnimationFrame     || 
+						  function( callback ){
+							window.setTimeout(callback, 1000 / 60);
+						  };
+				})();			 
+			 
+				// usage: 
+				// instead of setInterval(render, 16) ....
+			 
+				(function animloop(){
+				  requestAnimFrame(animloop);
+				  world.doOneCycle();
+				})();
+				// place the rAF *before* the render() to assure as close to 
+				// 60fps with the setTimeout fallback.
+
+			    if(window.location.href.indexOf("runAllTests") > -1) {
+			       world.runAllSystemTests();
+			    }
+
+			    // in case we want to set up the page
+			    // for the System Tests, then add a panel
+			    // to the right where helper commands can be
+			    // clicked.
+			    if(window.location.href.indexOf("worldWithSystemTestHarness") > -1) {
+    				if (SystemTestsControlPanelUpdater !== null) {
+      					new SystemTestsControlPanelUpdater();
+    				}
+			    }
+				
+			};
+
+		</script>
+	</head>
+
+	<body>
+		<!-- note that the width and height of the
+		canvas below are ignored in case the WorldMorph
+		is created without a second parameter of with
+		second parameter = true, in which case the
+		world will fill the entire page-->
+
+		<canvas id="world" tabindex="1">
+			<p>Your browser doesn't support canvas.</p>
+		</canvas>
+	</body>
+</html>
