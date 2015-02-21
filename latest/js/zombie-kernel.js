@@ -13339,4 +13339,4 @@ WorkspaceMorph = (function(_super) {
 
 })(BoxMorph);
 
-morphicVersion = 'version of 2015-02-21 12:32:49';
+morphicVersion = 'version of 2015-02-21 12:34:48';
