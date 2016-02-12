@@ -5030,7 +5030,7 @@ SystemTest_autoScrollingForScrollMorphs_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -5075,7 +5075,7 @@ SystemTest_autoScrollingForScrollMorphs_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -5103,7 +5103,7 @@ SystemTest_autoScrollingForScrollMorphs_automationCommands = {
         },
         {
             "whichMouseButtonPressed": "left",
-            "textLabelOfClickedItem": "resize...",
+            "textLabelOfClickedItem": "resize/move...",
             "textLabelOccurrenceNumber": 1,
             "millisecondsSincePreviousCommand": 0,
             "automatorCommandName": "AutomatorCommandLeftOrRightClickOnMenuItem"
@@ -5126,7 +5126,7 @@ SystemTest_autoScrollingForScrollMorphs_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],

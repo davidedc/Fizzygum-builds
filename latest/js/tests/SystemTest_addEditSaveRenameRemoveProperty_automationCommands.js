@@ -2912,7 +2912,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -2961,7 +2961,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -3009,7 +3009,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -6587,7 +6587,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -6636,7 +6636,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -6684,7 +6684,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -8652,7 +8652,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -8701,7 +8701,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -8749,7 +8749,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -10058,7 +10058,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -10107,7 +10107,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],
@@ -10155,7 +10155,7 @@ SystemTest_addEditSaveRenameRemoveProperty_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "acceptsDrops (content of string)",
+                "_acceptsDrops (content of string)",
                 0,
                 1
             ],

@@ -1860,7 +1860,7 @@ SystemTest_boxMorphHitTest_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -1903,7 +1903,7 @@ SystemTest_boxMorphHitTest_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -1931,7 +1931,7 @@ SystemTest_boxMorphHitTest_automationCommands = {
         },
         {
             "whichMouseButtonPressed": "left",
-            "textLabelOfClickedItem": "resize...",
+            "textLabelOfClickedItem": "resize/move...",
             "textLabelOccurrenceNumber": 1,
             "millisecondsSincePreviousCommand": 0,
             "automatorCommandName": "AutomatorCommandLeftOrRightClickOnMenuItem"
@@ -1952,7 +1952,7 @@ SystemTest_boxMorphHitTest_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -4187,7 +4187,7 @@ SystemTest_boxMorphHitTest_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "corner size... (content of string)",
+                "corner radius... (content of string)",
                 0,
                 1
             ],
@@ -4230,7 +4230,7 @@ SystemTest_boxMorphHitTest_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "corner size... (content of string)",
+                "corner radius... (content of string)",
                 0,
                 1
             ],
@@ -4258,7 +4258,7 @@ SystemTest_boxMorphHitTest_automationCommands = {
         },
         {
             "whichMouseButtonPressed": "left",
-            "textLabelOfClickedItem": "corner size...",
+            "textLabelOfClickedItem": "corner radius...",
             "textLabelOccurrenceNumber": 1,
             "millisecondsSincePreviousCommand": 0,
             "automatorCommandName": "AutomatorCommandLeftOrRightClickOnMenuItem"
@@ -4279,7 +4279,7 @@ SystemTest_boxMorphHitTest_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "corner size... (content of string)",
+                "corner radius... (content of string)",
                 0,
                 1
             ],

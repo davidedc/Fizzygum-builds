@@ -41,6 +41,7 @@ SystemTest_basicWorldMenuAndBubble = {
         "AutomatorVersionMinor": 1,
         "AutomatorVersionRelease": 0
     },
-    "maxSpeedupFactor": 1,
+    "supportsTurboPlayback": false,
+    "skipInbetweenMouseMoves": true,
     "testDuration": 8616
 };

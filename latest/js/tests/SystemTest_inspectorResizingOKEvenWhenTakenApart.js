@@ -8,7 +8,7 @@
 var SystemTest_inspectorResizingOKEvenWhenTakenApart;
 
 SystemTest_inspectorResizingOKEvenWhenTakenApart = {
-    "timeRecorded": "2015-04-20T14:33:15.018Z",
+    "timeRecorded": "2015-10-05T20:42:12.738Z",
     "description": "no description",
     "tags": [
         "noTags",
@@ -33,26 +33,27 @@ SystemTest_inspectorResizingOKEvenWhenTakenApart = {
         "HandleMorph"
     ],
     "systemInfo": {
-        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36",
-        "screenWidth": 1280,
-        "screenHeight": 800,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 1080,
         "screenColorDepth": 24,
-        "screenPixelRatio": 2,
+        "screenPixelRatio": 1,
         "appCodeName": "Mozilla",
         "appName": "Netscape",
-        "appVersion": "5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36",
+        "appVersion": "5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36",
         "cookieEnabled": true,
         "platform": "MacIntel",
         "browser": "Chrome",
-        "browserVersion": "42.0.2311.90",
+        "browserVersion": "45.0.2454.101",
         "mobile": false,
         "os": "Mac OS X",
-        "osVersion": "10_10_2",
+        "osVersion": "10_10_5",
         "cookies": true,
         "AutomatorVersionMajor": 0,
         "AutomatorVersionMinor": 1,
         "AutomatorVersionRelease": 0
     },
-    "maxSpeedupFactor": 6,
-    "testDuration": 84506
+    "testDuration": 112826,
+    "supportsTurboPlayback": true,
+    "skipInbetweenMouseMoves": true
 };

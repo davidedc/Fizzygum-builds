@@ -2049,7 +2049,7 @@ SystemTest_basicResize_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -2092,7 +2092,7 @@ SystemTest_basicResize_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -2120,7 +2120,7 @@ SystemTest_basicResize_automationCommands = {
         },
         {
             "whichMouseButtonPressed": "left",
-            "textLabelOfClickedItem": "resize...",
+            "textLabelOfClickedItem": "resize/move...",
             "textLabelOccurrenceNumber": 1,
             "millisecondsSincePreviousCommand": 0,
             "automatorCommandName": "AutomatorCommandLeftOrRightClickOnMenuItem"
@@ -2141,7 +2141,7 @@ SystemTest_basicResize_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],

@@ -8,7 +8,7 @@
 var SystemTest_editingStringInScrollableFrameCaretAlwaysVisible;
 
 SystemTest_editingStringInScrollableFrameCaretAlwaysVisible = {
-    "timeRecorded": "2015-04-20T10:23:49.853Z",
+    "timeRecorded": "2015-12-09T18:24:47.096Z",
     "description": "no description",
     "tags": [
         "noTags",
@@ -28,30 +28,30 @@ SystemTest_editingStringInScrollableFrameCaretAlwaysVisible = {
         "drop",
         "StringMorph",
         "StringFieldMorph",
-        "CaretMorph",
-        "RectangleMorph"
+        "CaretMorph"
     ],
     "systemInfo": {
-        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
-        "screenWidth": 1280,
-        "screenHeight": 800,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 1080,
         "screenColorDepth": 24,
-        "screenPixelRatio": 2,
+        "screenPixelRatio": 1,
         "appCodeName": "Mozilla",
         "appName": "Netscape",
-        "appVersion": "5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+        "appVersion": "5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36",
         "cookieEnabled": true,
         "platform": "MacIntel",
         "browser": "Chrome",
-        "browserVersion": "41.0.2272.118",
+        "browserVersion": "47.0.2526.73",
         "mobile": false,
         "os": "Mac OS X",
-        "osVersion": "10_10_2",
+        "osVersion": "10_11_1",
         "cookies": true,
         "AutomatorVersionMajor": 0,
         "AutomatorVersionMinor": 1,
         "AutomatorVersionRelease": 0
     },
-    "maxSpeedupFactor": 6,
-    "testDuration": 91369
+    "testDuration": 70897,
+    "supportsTurboPlayback": true,
+    "skipInbetweenMouseMoves": true
 };

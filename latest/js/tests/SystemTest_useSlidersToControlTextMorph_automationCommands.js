@@ -1867,7 +1867,7 @@ SystemTest_useSlidersToControlTextMorph_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -1910,7 +1910,7 @@ SystemTest_useSlidersToControlTextMorph_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -1938,7 +1938,7 @@ SystemTest_useSlidersToControlTextMorph_automationCommands = {
         },
         {
             "whichMouseButtonPressed": "left",
-            "textLabelOfClickedItem": "resize...",
+            "textLabelOfClickedItem": "resize/move...",
             "textLabelOccurrenceNumber": 1,
             "millisecondsSincePreviousCommand": 0,
             "automatorCommandName": "AutomatorCommandLeftOrRightClickOnMenuItem"
@@ -1959,7 +1959,7 @@ SystemTest_useSlidersToControlTextMorph_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],

@@ -5817,7 +5817,7 @@ SystemTest_resizingButtonDoesntCauseItToClick_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -5862,7 +5862,7 @@ SystemTest_resizingButtonDoesntCauseItToClick_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],
@@ -5890,7 +5890,7 @@ SystemTest_resizingButtonDoesntCauseItToClick_automationCommands = {
         },
         {
             "whichMouseButtonPressed": "left",
-            "textLabelOfClickedItem": "resize...",
+            "textLabelOfClickedItem": "resize/move...",
             "textLabelOccurrenceNumber": 1,
             "millisecondsSincePreviousCommand": 1,
             "automatorCommandName": "AutomatorCommandLeftOrRightClickOnMenuItem"
@@ -5913,7 +5913,7 @@ SystemTest_resizingButtonDoesntCauseItToClick_automationCommands = {
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "resize... (content of string)",
+                "resize/move... (content of string)",
                 0,
                 1
             ],

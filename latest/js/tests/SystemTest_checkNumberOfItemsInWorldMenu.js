@@ -40,6 +40,7 @@ SystemTest_checkNumberOfItemsInWorldMenu = {
         "AutomatorVersionMinor": 1,
         "AutomatorVersionRelease": 0
     },
-    "maxSpeedupFactor": 6,
+    "supportsTurboPlayback": true,
+    "skipInbetweenMouseMoves": true,
     "testDuration": 5730
 };

@@ -10,120 +10,165 @@ var SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands;
 SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
     "automatorCommandsSequence": [
         {
-            "mouseX": 657,
-            "mouseY": 186,
+            "mouseX": 956,
+            "mouseY": 210,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 86,
+            "millisecondsSincePreviousCommand": 247,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 657,
-            "mouseY": 186,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 236,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 640,
-            "mouseY": 186,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "scanCode": 18,
-            "shiftKey": false,
-            "ctrlKey": false,
-            "altKey": true,
-            "metaKey": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandKeyDown"
-        },
-        {
-            "mouseX": 621,
-            "mouseY": 187,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 3,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 597,
-            "mouseY": 193,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 552,
-            "mouseY": 209,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 506,
-            "mouseY": 231,
+            "mouseX": 930,
+            "mouseY": 217,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 474,
-            "mouseY": 249,
+            "mouseX": 870,
+            "mouseY": 234,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 786,
+            "mouseY": 259,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 697,
+            "mouseY": 293,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 618,
+            "mouseY": 330,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 557,
+            "mouseY": 362,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 446,
-            "mouseY": 270,
+            "mouseX": 512,
+            "mouseY": 389,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 469,
+            "mouseY": 413,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 434,
-            "mouseY": 282,
+            "mouseX": 453,
+            "mouseY": 419,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 427,
-            "mouseY": 289,
+            "mouseX": 445,
+            "mouseY": 422,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 440,
+            "mouseY": 423,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 431,
+            "mouseY": 425,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 426,
+            "mouseY": 426,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 424,
+            "mouseY": 427,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 423,
-            "mouseY": 294,
+            "mouseY": 427,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 422,
+            "mouseY": 427,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 422,
-            "mouseY": 296,
+            "mouseX": 421,
+            "mouseY": 427,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
+            "millisecondsSincePreviousCommand": 22,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "scanCode": 68,
-            "shiftKey": false,
-            "ctrlKey": false,
-            "altKey": true,
-            "metaKey": false,
-            "millisecondsSincePreviousCommand": 33,
-            "automatorCommandName": "AutomatorCommandKeyDown"
+            "mouseX": 420,
+            "mouseY": 427,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "millisecondsSincePreviousCommand": 3,
+            "mouseX": 417,
+            "mouseY": 429,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 408,
+            "mouseY": 431,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 395,
+            "mouseY": 436,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "millisecondsSincePreviousCommand": 1468,
             "automatorCommandName": "AutomatorCommandTurnOffAnimationsPacingControl"
         },
         {
-            "millisecondsSincePreviousCommand": 0,
+            "millisecondsSincePreviousCommand": 1,
             "automatorCommandName": "AutomatorCommandTurnOffAlignmentOfMorphIDsMechanism"
         },
         {
@@ -139,212 +184,15 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandTurnOffHidingOfMorphsNumberIDInLabels"
         },
         {
-            "millisecondsSincePreviousCommand": 0,
+            "millisecondsSincePreviousCommand": 1466,
             "automatorCommandName": "AutomatorCommandResetWorld"
         },
         {
-            "scanCode": 68,
-            "shiftKey": false,
-            "ctrlKey": false,
-            "altKey": true,
-            "metaKey": false,
-            "millisecondsSincePreviousCommand": 116,
-            "automatorCommandName": "AutomatorCommandKeyUp"
-        },
-        {
-            "mouseX": 421,
-            "mouseY": 298,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 3,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 418,
-            "mouseY": 304,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 414,
-            "mouseY": 311,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "scanCode": 18,
-            "shiftKey": false,
-            "ctrlKey": false,
-            "altKey": false,
-            "metaKey": false,
-            "millisecondsSincePreviousCommand": 2,
-            "automatorCommandName": "AutomatorCommandKeyUp"
-        },
-        {
-            "mouseX": 410,
-            "mouseY": 323,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 401,
-            "mouseY": 339,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 396,
-            "mouseY": 351,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 387,
-            "mouseY": 365,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 380,
-            "mouseY": 374,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 375,
-            "mouseY": 379,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 369,
-            "mouseY": 384,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 366,
-            "mouseY": 387,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 363,
-            "mouseY": 390,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 361,
-            "mouseY": 393,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 24,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 358,
-            "mouseY": 396,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 12,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 356,
-            "mouseY": 399,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 353,
-            "mouseY": 401,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 351,
-            "mouseY": 404,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 346,
-            "mouseY": 408,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 342,
-            "mouseY": 410,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 339,
-            "mouseY": 414,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 337,
-            "mouseY": 418,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 334,
-            "mouseY": 421,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 331,
-            "mouseY": 426,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 330,
-            "mouseY": 429,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 327,
-            "mouseY": 435,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "millisecondsSincePreviousCommand": 606,
-            "automatorCommandName": "AutomatorCommandTurnOnAnimationsPacingControl"
-        },
-        {
-            "millisecondsSincePreviousCommand": 762,
+            "millisecondsSincePreviousCommand": 1229,
             "automatorCommandName": "AutomatorCommandTurnOnAlignmentOfMorphIDsMechanism"
         },
         {
-            "millisecondsSincePreviousCommand": 968,
+            "millisecondsSincePreviousCommand": 792,
             "automatorCommandName": "AutomatorCommandTurnOnHidingOfMorphsGeometryInfoInLabels"
         },
         {
@@ -352,168 +200,364 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandTurnOnHidingOfMorphsContentExtractInLabels"
         },
         {
-            "millisecondsSincePreviousCommand": 952,
+            "millisecondsSincePreviousCommand": 1312,
             "automatorCommandName": "AutomatorCommandTurnOnHidingOfMorphsNumberIDInLabels"
         },
         {
-            "mouseX": 288,
-            "mouseY": 397,
+            "mouseX": 277,
+            "mouseY": 413,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 374,
+            "millisecondsSincePreviousCommand": 372,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 269,
-            "mouseY": 345,
+            "mouseX": 263,
+            "mouseY": 390,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 256,
-            "mouseY": 309,
+            "mouseY": 374,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 242,
-            "mouseY": 271,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 233,
-            "mouseY": 241,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 226,
-            "mouseY": 215,
+            "mouseX": 251,
+            "mouseY": 361,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 225,
-            "mouseY": 208,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 224,
-            "mouseY": 208,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 201,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 218,
-            "mouseY": 203,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 200,
-            "mouseY": 182,
+            "mouseX": 249,
+            "mouseY": 351,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
+            "mouseX": 247,
+            "mouseY": 346,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 244,
+            "mouseY": 337,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 237,
+            "mouseY": 324,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 226,
+            "mouseY": 305,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 212,
+            "mouseY": 284,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 201,
+            "mouseY": 267,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 195,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
             "mouseX": 185,
-            "mouseY": 164,
+            "mouseY": 234,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 180,
+            "mouseY": 221,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 21,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 175,
+            "mouseY": 210,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 173,
-            "mouseY": 149,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 159,
-            "mouseY": 134,
+            "mouseX": 170,
+            "mouseY": 197,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 15,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 150,
-            "mouseY": 123,
+            "mouseX": 164,
+            "mouseY": 181,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 159,
+            "mouseY": 165,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 155,
+            "mouseY": 152,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 151,
+            "mouseY": 141,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 147,
+            "mouseY": 126,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 143,
+            "mouseY": 115,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 140,
-            "mouseY": 112,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 131,
-            "mouseY": 102,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 93,
+            "mouseY": 105,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 113,
-            "mouseY": 84,
+            "mouseX": 137,
+            "mouseY": 96,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 134,
+            "mouseY": 91,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 105,
+            "mouseX": 132,
+            "mouseY": 85,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 34,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 132,
+            "mouseY": 83,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 1,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 131,
+            "mouseY": 82,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 129,
+            "mouseY": 78,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 129,
+            "mouseY": 76,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 128,
+            "mouseY": 75,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 127,
             "mouseY": 74,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 100,
-            "mouseY": 68,
+            "mouseX": 127,
+            "mouseY": 73,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 97,
+            "mouseX": 127,
+            "mouseY": 72,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 126,
+            "mouseY": 72,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 126,
+            "mouseY": 71,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 126,
+            "mouseY": 70,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 125,
+            "mouseY": 70,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 125,
+            "mouseY": 69,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 124,
+            "mouseY": 68,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 21,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 123,
+            "mouseY": 67,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 122,
+            "mouseY": 66,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 120,
+            "mouseY": 65,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 118,
+            "mouseY": 64,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 116,
             "mouseY": 64,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 94,
-            "mouseY": 59,
+            "mouseX": 115,
+            "mouseY": 63,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 114,
+            "mouseY": 62,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 113,
+            "mouseY": 61,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 112,
+            "mouseY": 61,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 45,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 112,
+            "mouseY": 60,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 92,
-            "mouseY": 56,
+            "mouseX": 111,
+            "mouseY": 60,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 38,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -536,19 +580,19 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 440
             ],
             "pointerPositionFractionalInMorph": [
-                0.09583333333333334,
-                0.12727272727272726
+                0.115625,
+                0.13636363636363635
             ],
             "pointerPositionPixelsInMorph": [
-                92,
-                56
+                111,
+                60
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 92,
-                "y": 56
+                "x": 111,
+                "y": 60
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 568,
+            "millisecondsSincePreviousCommand": 345,
             "button": "right",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
@@ -571,19 +615,19 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 440
             ],
             "pointerPositionFractionalInMorph": [
-                0.09583333333333334,
-                0.12727272727272726
+                0.115625,
+                0.13636363636363635
             ],
             "pointerPositionPixelsInMorph": [
-                92,
-                56
+                111,
+                60
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 92,
-                "y": 56
+                "x": 111,
+                "y": 60
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 7,
+            "millisecondsSincePreviousCommand": 152,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
@@ -610,109 +654,60 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 440
             ],
             "pointerPositionFractionalInMorph": [
-                0.09583333333333334,
-                0.12727272727272726
+                0.115625,
+                0.13636363636363635
             ],
             "pointerPositionPixelsInMorph": [
-                92,
-                56
+                111,
+                60
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 92,
-                "y": 56
+                "x": 111,
+                "y": 60
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 0,
+            "millisecondsSincePreviousCommand": 1,
             "button": "right",
             "automatorCommandName": "AutomatorCommandMouseClick"
-        },
-        {
-            "mouseX": 93,
-            "mouseY": 56,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 331,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 97,
-            "mouseY": 56,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 101,
-            "mouseY": 56,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 57,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 57,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 109,
-            "mouseY": 58,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 110,
-            "mouseY": 59,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 111,
-            "mouseY": 59,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 112,
             "mouseY": 60,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 326,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 113,
-            "mouseY": 60,
+            "mouseY": 61,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 33,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 114,
+            "mouseY": 61,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 115,
-            "mouseY": 61,
+            "mouseY": 62,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 116,
-            "mouseY": 61,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 116,
             "mouseY": 62,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 116,
+            "mouseY": 63,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
@@ -721,7 +716,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "mouseX": 117,
             "mouseY": 63,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -733,135 +728,205 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
         },
         {
             "mouseX": 118,
+            "mouseY": 64,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 118,
+            "mouseY": 65,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 119,
             "mouseY": 65,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 118,
+            "mouseX": 119,
             "mouseY": 66,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 120,
+            "mouseY": 67,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 19,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 118,
-            "mouseY": 66,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 119,
-            "mouseY": 67,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 24,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 119,
+            "mouseX": 121,
             "mouseY": 68,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 32,
+            "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 121,
             "mouseY": 69,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 24,
+            "millisecondsSincePreviousCommand": 23,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 122,
             "mouseY": 69,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 24,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 122,
             "mouseY": 70,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 65,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 123,
             "mouseY": 71,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 40,
+            "millisecondsSincePreviousCommand": 21,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 123,
             "mouseY": 72,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 123,
+            "mouseY": 73,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 25,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 124,
+            "mouseY": 73,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 124,
             "mouseY": 74,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 124,
             "mouseY": 75,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 119,
-            "mouseY": 76,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
-            "mouseY": 77,
+            "mouseX": 124,
+            "mouseY": 76,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 25,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 124,
+            "mouseY": 77,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 125,
+            "mouseY": 77,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 125,
             "mouseY": 78,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 125,
             "mouseY": 79,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
+            "millisecondsSincePreviousCommand": 30,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
+            "mouseX": 125,
             "mouseY": 80,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 32,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 126,
+            "mouseY": 80,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 126,
+            "mouseY": 81,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
-            "mouseY": 80,
+            "mouseX": 126,
+            "mouseY": 82,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 24,
+            "millisecondsSincePreviousCommand": 30,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 119,
-            "mouseY": 81,
+            "mouseX": 126,
+            "mouseY": 83,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 30,
+            "millisecondsSincePreviousCommand": 31,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 127,
+            "mouseY": 83,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 127,
+            "mouseY": 84,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 127,
+            "mouseY": 85,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 37,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 127,
+            "mouseY": 86,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 41,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -886,25 +951,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                100,
+                117,
                 80,
                 48,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.3958333333333333,
-                0.06666666666666667
+                0.20833333333333334,
+                0.4
             ],
             "pointerPositionPixelsInMorph": [
-                19,
-                1
+                10,
+                6
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 119,
-                "y": 81
+                "x": 127,
+                "y": 86
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 213,
+            "millisecondsSincePreviousCommand": 307,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
@@ -929,25 +994,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                100,
+                117,
                 80,
                 48,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.3958333333333333,
-                0.06666666666666667
+                0.20833333333333334,
+                0.4
             ],
             "pointerPositionPixelsInMorph": [
-                19,
-                1
+                10,
+                6
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 119,
-                "y": 81
+                "x": 127,
+                "y": 86
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 56,
+            "millisecondsSincePreviousCommand": 109,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
@@ -978,227 +1043,290 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                100,
+                117,
                 80,
                 48,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.3958333333333333,
-                0.06666666666666667
+                0.20833333333333334,
+                0.4
             ],
             "pointerPositionPixelsInMorph": [
-                19,
-                1
+                10,
+                6
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 119,
-                "y": 81
+                "x": 127,
+                "y": 86
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 1,
+            "millisecondsSincePreviousCommand": 0,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseClick"
         },
         {
-            "mouseX": 119,
-            "mouseY": 82,
+            "mouseX": 128,
+            "mouseY": 86,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 364,
+            "millisecondsSincePreviousCommand": 446,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 120,
+            "mouseX": 128,
             "mouseY": 87,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 126,
-            "mouseY": 101,
+            "mouseX": 128,
+            "mouseY": 88,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
+            "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 129,
-            "mouseY": 114,
+            "mouseY": 88,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 21,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 129,
+            "mouseY": 89,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 12,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 129,
+            "mouseY": 90,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 130,
+            "mouseY": 90,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 130,
+            "mouseY": 91,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 130,
+            "mouseY": 92,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 112,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 131,
+            "mouseY": 92,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 131,
+            "mouseY": 93,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 131,
+            "mouseY": 94,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 32,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 132,
+            "mouseY": 95,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 132,
+            "mouseY": 97,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 133,
+            "mouseY": 97,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 133,
+            "mouseY": 99,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 133,
+            "mouseY": 100,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 133,
+            "mouseY": 101,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 133,
+            "mouseY": 102,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 133,
+            "mouseY": 104,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 134,
+            "mouseY": 106,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 134,
+            "mouseY": 112,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 135,
+            "mouseY": 118,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 135,
+            "mouseY": 121,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 135,
             "mouseY": 128,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 136,
-            "mouseY": 140,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 138,
-            "mouseY": 150,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 31,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 141,
-            "mouseY": 161,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 7,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 142,
-            "mouseY": 170,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 12,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 144,
-            "mouseY": 177,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 145,
-            "mouseY": 184,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 146,
-            "mouseY": 190,
+            "mouseX": 135,
+            "mouseY": 133,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 147,
-            "mouseY": 193,
+            "mouseX": 136,
+            "mouseY": 144,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 137,
+            "mouseY": 152,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
-            "mouseY": 195,
+            "mouseX": 138,
+            "mouseY": 160,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
-            "mouseY": 198,
+            "mouseX": 139,
+            "mouseY": 168,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 140,
+            "mouseY": 176,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 14,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 141,
+            "mouseY": 184,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 142,
+            "mouseY": 197,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
-            "mouseY": 199,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 201,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
+            "mouseX": 144,
             "mouseY": 202,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 14,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
-            "mouseY": 203,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 204,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 47,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 204,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 40,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 205,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 206,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
+            "mouseX": 145,
             "mouseY": 208,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
-            "mouseY": 209,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 211,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
+            "mouseX": 146,
             "mouseY": 213,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 215,
-            "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
+            "mouseX": 147,
+            "mouseY": 216,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
             "mouseX": 148,
-            "mouseY": 217,
+            "mouseY": 219,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
@@ -1211,136 +1339,150 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
+            "mouseX": 149,
             "mouseY": 222,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 224,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
+            "mouseX": 149,
+            "mouseY": 223,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 27,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 149,
             "mouseY": 224,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 225,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 226,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 23,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 227,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 229,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 230,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 231,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 232,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 14,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
-            "mouseY": 233,
+            "mouseX": 150,
+            "mouseY": 224,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
-            "mouseY": 233,
+            "mouseX": 150,
+            "mouseY": 225,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
-            "mouseY": 234,
+            "mouseX": 151,
+            "mouseY": 226,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 151,
+            "mouseY": 227,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 151,
+            "mouseY": 228,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 74,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 228,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 26,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 229,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 230,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 38,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 231,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 33,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 232,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
+            "mouseX": 153,
+            "mouseY": 232,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 153,
+            "mouseY": 233,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 153,
+            "mouseY": 234,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 153,
             "mouseY": 235,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 20,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
+            "mouseX": 153,
+            "mouseY": 236,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 154,
+            "mouseY": 236,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 32,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 154,
             "mouseY": 237,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
+            "mouseX": 154,
             "mouseY": 238,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 239,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 240,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 241,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 86,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -1367,25 +1509,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                127,
-                231,
+                133,
+                232,
                 33,
                 15
             ],
             "pointerPositionFractionalInMorph": [
                 0.6363636363636364,
-                0.6666666666666666
+                0.4
             ],
             "pointerPositionPixelsInMorph": [
                 21,
-                10
+                6
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 148,
-                "y": 241
+                "x": 154,
+                "y": 238
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 247,
+            "millisecondsSincePreviousCommand": 42,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
@@ -1412,25 +1554,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                127,
-                231,
+                133,
+                232,
                 33,
                 15
             ],
             "pointerPositionFractionalInMorph": [
                 0.6363636363636364,
-                0.6666666666666666
+                0.4
             ],
             "pointerPositionPixelsInMorph": [
                 21,
-                10
+                6
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 148,
-                "y": 241
+                "x": 154,
+                "y": 238
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 56,
+            "millisecondsSincePreviousCommand": 128,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
@@ -1463,25 +1605,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                127,
-                231,
+                133,
+                232,
                 33,
                 15
             ],
             "pointerPositionFractionalInMorph": [
                 0.6363636363636364,
-                0.6666666666666666
+                0.4
             ],
             "pointerPositionPixelsInMorph": [
                 21,
-                10
+                6
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 148,
-                "y": 241
+                "x": 154,
+                "y": 238
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 3,
+            "millisecondsSincePreviousCommand": 0,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseClick"
         },
@@ -1490,206 +1632,276 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandGrab"
         },
         {
-            "mouseX": 148,
-            "mouseY": 240,
+            "mouseX": 155,
+            "mouseY": 238,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 294,
+            "millisecondsSincePreviousCommand": 93,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 148,
-            "mouseY": 229,
+            "mouseX": 156,
+            "mouseY": 239,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 21,
+            "millisecondsSincePreviousCommand": 88,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 142,
-            "mouseY": 206,
+            "mouseX": 156,
+            "mouseY": 234,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 89,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 155,
+            "mouseY": 219,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 197,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 147,
+            "mouseY": 179,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 133,
-            "mouseY": 175,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 124,
-            "mouseY": 148,
+            "mouseX": 138,
+            "mouseY": 160,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 19,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
+            "mouseX": 128,
+            "mouseY": 146,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 120,
+            "mouseY": 135,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 119,
+            "mouseY": 134,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 119,
+            "mouseY": 133,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 118,
+            "mouseY": 132,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
             "mouseX": 117,
-            "mouseY": 128,
+            "mouseY": 127,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 116,
+            "mouseY": 116,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 114,
+            "mouseY": 100,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 111,
+            "mouseY": 87,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 111,
+            "mouseY": 79,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 111,
+            "mouseY": 76,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 111,
+            "mouseY": 73,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 111,
+            "mouseY": 71,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 15,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 111,
-            "mouseY": 112,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 95,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 102,
-            "mouseY": 87,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 101,
-            "mouseY": 83,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 100,
-            "mouseY": 79,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 99,
-            "mouseY": 75,
+            "mouseY": 70,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 98,
-            "mouseY": 72,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 98,
+            "mouseX": 111,
             "mouseY": 69,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 28,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 97,
+            "mouseX": 111,
             "mouseY": 68,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 32,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 96,
+            "mouseX": 111,
             "mouseY": 67,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 49,
+            "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 96,
-            "mouseY": 66,
+            "mouseX": 110,
+            "mouseY": 65,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 26,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 96,
+            "mouseX": 110,
             "mouseY": 64,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 95,
+            "mouseX": 109,
+            "mouseY": 63,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 21,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 109,
+            "mouseY": 62,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 39,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 108,
             "mouseY": 61,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 41,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 95,
+            "mouseX": 108,
+            "mouseY": 60,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 48,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 107,
+            "mouseY": 59,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 25,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 107,
             "mouseY": 58,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 94,
+            "mouseX": 107,
+            "mouseY": 57,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 46,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 106,
+            "mouseY": 57,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 106,
+            "mouseY": 56,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 21,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 106,
+            "mouseY": 55,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 25,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 105,
+            "mouseY": 55,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 105,
             "mouseY": 54,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 93,
-            "mouseY": 50,
+            "mouseX": 105,
+            "mouseY": 53,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 92,
-            "mouseY": 48,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 91,
-            "mouseY": 47,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 90,
-            "mouseY": 45,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 21,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 90,
-            "mouseY": 44,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 89,
-            "mouseY": 44,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 89,
-            "mouseY": 43,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 88,
-            "mouseY": 43,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 40,
+            "millisecondsSincePreviousCommand": 33,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -1712,24 +1924,24 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 440
             ],
             "pointerPositionFractionalInMorph": [
-                0.09166666666666666,
-                0.09772727272727273
+                0.109375,
+                0.12045454545454545
             ],
             "pointerPositionPixelsInMorph": [
-                88,
-                43
+                105,
+                53
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 88,
-                "y": 43
+                "x": 105,
+                "y": 53
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 152,
+            "millisecondsSincePreviousCommand": 124,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
-            "millisecondsSincePreviousCommand": 0,
+            "millisecondsSincePreviousCommand": 1,
             "automatorCommandName": "AutomatorCommandDrop"
         },
         {
@@ -1749,8 +1961,8 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                54,
-                36,
+                71,
+                46,
                 69,
                 15
             ],
@@ -1763,12 +1975,40 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 7
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 88,
-                "y": 43
+                "x": 105,
+                "y": 53
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 42,
+            "millisecondsSincePreviousCommand": 104,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
+        },
+        {
+            "mouseX": 106,
+            "mouseY": 53,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 198,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 106,
+            "mouseY": 54,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 107,
+            "mouseY": 54,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 108,
+            "mouseY": 54,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "upOrDown": "down",
@@ -1788,25 +2028,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                54,
-                36,
+                71,
+                46,
                 69,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.4927536231884058,
-                0.4666666666666667
+                0.5362318840579711,
+                0.5333333333333333
             ],
             "pointerPositionPixelsInMorph": [
-                34,
-                7
+                37,
+                8
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 88,
-                "y": 43
+                "x": 108,
+                "y": 54
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 750,
+            "millisecondsSincePreviousCommand": 360,
             "button": "right",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
@@ -1827,25 +2067,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                54,
-                36,
+                71,
+                46,
                 69,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.4927536231884058,
-                0.4666666666666667
+                0.5362318840579711,
+                0.5333333333333333
             ],
             "pointerPositionPixelsInMorph": [
-                34,
-                7
+                37,
+                8
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 88,
-                "y": 43
+                "x": 108,
+                "y": 54
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 7,
+            "millisecondsSincePreviousCommand": 119,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
@@ -1870,22 +2110,22 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                54,
-                36,
+                71,
+                46,
                 69,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.4927536231884058,
-                0.4666666666666667
+                0.5362318840579711,
+                0.5333333333333333
             ],
             "pointerPositionPixelsInMorph": [
-                34,
-                7
+                37,
+                8
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 88,
-                "y": 43
+                "x": 108,
+                "y": 54
             },
             "isPartOfListMorph": false,
             "millisecondsSincePreviousCommand": 0,
@@ -1893,234 +2133,367 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandMouseClick"
         },
         {
-            "mouseX": 89,
-            "mouseY": 44,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 502,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 92,
-            "mouseY": 47,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 94,
-            "mouseY": 51,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 96,
+            "mouseX": 108,
             "mouseY": 55,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 679,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 99,
-            "mouseY": 58,
+            "mouseX": 110,
+            "mouseY": 57,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 101,
-            "mouseY": 60,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 102,
+            "mouseX": 113,
             "mouseY": 62,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 103,
-            "mouseY": 63,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 104,
-            "mouseY": 64,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 66,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
+            "mouseX": 117,
             "mouseY": 70,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 74,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 108,
-            "mouseY": 81,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 21,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 109,
-            "mouseY": 88,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 111,
-            "mouseY": 98,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 26,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 113,
-            "mouseY": 108,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 7,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 115,
-            "mouseY": 118,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 116,
-            "mouseY": 127,
-            "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 118,
-            "mouseY": 135,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 120,
-            "mouseY": 143,
+            "mouseX": 119,
+            "mouseY": 76,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 121,
-            "mouseY": 148,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 153,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 159,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 162,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 166,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 168,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 171,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 173,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 175,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 178,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 122,
-            "mouseY": 179,
+            "mouseY": 79,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 122,
-            "mouseY": 180,
+            "mouseY": 82,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 123,
+            "mouseY": 84,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 43,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 123,
+            "mouseY": 85,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 124,
+            "mouseY": 85,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 124,
+            "mouseY": 86,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 125,
+            "mouseY": 87,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 22,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 125,
+            "mouseY": 89,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 25,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 126,
+            "mouseY": 90,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 126,
+            "mouseY": 92,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 14,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 127,
+            "mouseY": 93,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 122,
+            "mouseX": 128,
+            "mouseY": 95,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 128,
+            "mouseY": 96,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 129,
+            "mouseY": 98,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 129,
+            "mouseY": 100,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 130,
+            "mouseY": 102,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 131,
+            "mouseY": 105,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 133,
+            "mouseY": 111,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 136,
+            "mouseY": 121,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 139,
+            "mouseY": 130,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 142,
+            "mouseY": 142,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 144,
+            "mouseY": 150,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 145,
+            "mouseY": 153,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 145,
+            "mouseY": 156,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 145,
+            "mouseY": 161,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 146,
+            "mouseY": 164,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 146,
+            "mouseY": 166,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 147,
+            "mouseY": 168,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 147,
+            "mouseY": 169,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 25,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 147,
+            "mouseY": 170,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 8,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 148,
+            "mouseY": 171,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 148,
+            "mouseY": 172,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 53,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 148,
+            "mouseY": 173,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 47,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 148,
+            "mouseY": 174,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 149,
+            "mouseY": 174,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 149,
+            "mouseY": 176,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 149,
+            "mouseY": 177,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 150,
+            "mouseY": 178,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 150,
+            "mouseY": 179,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 21,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 150,
             "mouseY": 180,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 115,
+            "millisecondsSincePreviousCommand": 37,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 151,
+            "mouseY": 181,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 34,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 151,
+            "mouseY": 182,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 151,
+            "mouseY": 183,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 183,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 184,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 185,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 22,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 152,
+            "mouseY": 186,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 103,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -2134,7 +2507,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                     0
                 ],
                 "lengthOfChildrenArrays": [
-                    3,
+                    2,
                     25,
                     1
                 ]
@@ -2145,25 +2518,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                96,
-                175,
+                114,
+                182,
                 42,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.6190476190476191,
-                0.3333333333333333
+                0.9047619047619048,
+                0.26666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                26,
-                5
+                38,
+                4
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 122,
-                "y": 180
+                "x": 152,
+                "y": 186
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 235,
+            "millisecondsSincePreviousCommand": 65,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
@@ -2188,25 +2561,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                96,
-                175,
+                114,
+                182,
                 42,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.6190476190476191,
-                0.3333333333333333
+                0.9047619047619048,
+                0.26666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                26,
-                5
+                38,
+                4
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 122,
-                "y": 180
+                "x": 152,
+                "y": 186
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 55,
+            "millisecondsSincePreviousCommand": 120,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
@@ -2237,22 +2610,22 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                96,
-                175,
+                114,
+                182,
                 42,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.6190476190476191,
-                0.3333333333333333
+                0.9047619047619048,
+                0.26666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                26,
-                5
+                38,
+                4
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 122,
-                "y": 180
+                "x": 152,
+                "y": 186
             },
             "isPartOfListMorph": false,
             "millisecondsSincePreviousCommand": 0,
@@ -2260,164 +2633,206 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandMouseClick"
         },
         {
-            "mouseX": 123,
-            "mouseY": 180,
+            "mouseX": 153,
+            "mouseY": 187,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 566,
+            "millisecondsSincePreviousCommand": 136,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 126,
-            "mouseY": 180,
+            "mouseX": 154,
+            "mouseY": 187,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 131,
-            "mouseY": 180,
+            "mouseX": 155,
+            "mouseY": 187,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 20,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 137,
-            "mouseY": 181,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 142,
-            "mouseY": 182,
+            "mouseX": 157,
+            "mouseY": 187,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 147,
-            "mouseY": 185,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 150,
+            "mouseX": 159,
             "mouseY": 186,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 152,
-            "mouseY": 187,
+            "mouseX": 165,
+            "mouseY": 185,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 182,
+            "mouseY": 184,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 190,
+            "mouseY": 184,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 153,
-            "mouseY": 187,
+            "mouseX": 196,
+            "mouseY": 184,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 204,
+            "mouseY": 185,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 209,
+            "mouseY": 186,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 217,
+            "mouseY": 188,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 226,
+            "mouseY": 191,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 231,
+            "mouseY": 193,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 233,
+            "mouseY": 194,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 19,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 154,
-            "mouseY": 188,
+            "mouseX": 234,
+            "mouseY": 194,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 32,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 156,
-            "mouseY": 188,
+            "mouseX": 235,
+            "mouseY": 194,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 31,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 236,
+            "mouseY": 194,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 237,
+            "mouseY": 194,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 239,
+            "mouseY": 194,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 10,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 240,
+            "mouseY": 195,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 157,
-            "mouseY": 188,
+            "mouseX": 241,
+            "mouseY": 195,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 159,
-            "mouseY": 189,
+            "mouseX": 242,
+            "mouseY": 195,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 82,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 160,
-            "mouseY": 189,
+            "mouseX": 243,
+            "mouseY": 195,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 25,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 161,
-            "mouseY": 189,
+            "mouseX": 244,
+            "mouseY": 196,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 162,
-            "mouseY": 190,
+            "mouseX": 245,
+            "mouseY": 196,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 32,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 245,
+            "mouseY": 197,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 25,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 246,
+            "mouseY": 197,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 163,
-            "mouseY": 190,
+            "mouseX": 247,
+            "mouseY": 198,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 164,
-            "mouseY": 190,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 165,
-            "mouseY": 191,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 166,
-            "mouseY": 191,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 167,
-            "mouseY": 191,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 167,
-            "mouseY": 193,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 168,
-            "mouseY": 193,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 15,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -2440,380 +2855,226 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                127,
-                185,
+                157,
+                191,
                 290,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.1413793103448276,
-                0.5333333333333333
+                0.3103448275862069,
+                0.4666666666666667
             ],
             "pointerPositionPixelsInMorph": [
-                41,
-                8
+                90,
+                7
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 168,
-                "y": 193
+                "x": 247,
+                "y": 198
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 190,
+            "millisecondsSincePreviousCommand": 23,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
-            "millisecondsSincePreviousCommand": 170,
+            "millisecondsSincePreviousCommand": 14,
             "automatorCommandName": "AutomatorCommandGrab"
         },
         {
-            "mouseX": 169,
-            "mouseY": 193,
+            "mouseX": 248,
+            "mouseY": 198,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 3,
+            "millisecondsSincePreviousCommand": 2,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 186,
-            "mouseY": 185,
+            "mouseX": 248,
+            "mouseY": 199,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 28,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 232,
-            "mouseY": 162,
+            "mouseX": 249,
+            "mouseY": 199,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 10,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 251,
+            "mouseY": 199,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 256,
+            "mouseY": 199,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 277,
-            "mouseY": 144,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 338,
-            "mouseY": 127,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 36,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 430,
-            "mouseY": 115,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 9,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 457,
-            "mouseY": 113,
+            "mouseY": 199,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 481,
-            "mouseY": 113,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 489,
-            "mouseY": 113,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 489,
-            "mouseY": 112,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 50,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 490,
-            "mouseY": 112,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 170,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 496,
-            "mouseY": 111,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 513,
-            "mouseY": 103,
+            "mouseX": 309,
+            "mouseY": 199,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 530,
-            "mouseY": 98,
+            "mouseX": 346,
+            "mouseY": 198,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 547,
-            "mouseY": 93,
+            "mouseX": 389,
+            "mouseY": 191,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 410,
+            "mouseY": 185,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 556,
-            "mouseY": 92,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 563,
-            "mouseY": 90,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 565,
-            "mouseY": 90,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 566,
-            "mouseY": 90,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 567,
-            "mouseY": 90,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 566,
-            "mouseY": 91,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 35,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 565,
-            "mouseY": 91,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 563,
-            "mouseY": 92,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 561,
-            "mouseY": 93,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 558,
-            "mouseY": 94,
+            "mouseX": 426,
+            "mouseY": 179,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 554,
-            "mouseY": 95,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 550,
-            "mouseY": 95,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 547,
-            "mouseY": 96,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 544,
-            "mouseY": 96,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 543,
-            "mouseY": 96,
+            "mouseX": 439,
+            "mouseY": 174,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 542,
-            "mouseY": 96,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 541,
-            "mouseY": 96,
+            "mouseX": 455,
+            "mouseY": 167,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 540,
-            "mouseY": 96,
+            "mouseX": 469,
+            "mouseY": 161,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 23,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 540,
-            "mouseY": 96,
+            "mouseX": 487,
+            "mouseY": 155,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 30,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 539,
-            "mouseY": 96,
+            "mouseX": 508,
+            "mouseY": 149,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 24,
+            "millisecondsSincePreviousCommand": 4,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 538,
-            "mouseY": 96,
+            "mouseX": 568,
+            "mouseY": 132,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 21,
+            "millisecondsSincePreviousCommand": 41,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 535,
-            "mouseY": 96,
+            "mouseX": 589,
+            "mouseY": 125,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 12,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 605,
+            "mouseY": 120,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 15,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 531,
-            "mouseY": 96,
+            "mouseX": 613,
+            "mouseY": 115,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 20,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 526,
-            "mouseY": 97,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 523,
-            "mouseY": 97,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 520,
-            "mouseY": 97,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 515,
-            "mouseY": 97,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 511,
-            "mouseY": 97,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 508,
-            "mouseY": 97,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 22,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 506,
-            "mouseY": 97,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 504,
-            "mouseY": 97,
+            "mouseX": 615,
+            "mouseY": 115,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 14,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 502,
-            "mouseY": 97,
+            "mouseX": 615,
+            "mouseY": 114,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 501,
-            "mouseY": 97,
+            "mouseX": 616,
+            "mouseY": 114,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 56,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 617,
+            "mouseY": 114,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 35,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 617,
+            "mouseY": 113,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 15,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 501,
-            "mouseY": 97,
+            "mouseX": 618,
+            "mouseY": 113,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 30,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 501,
-            "mouseY": 96,
+            "mouseX": 619,
+            "mouseY": 113,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
+            "millisecondsSincePreviousCommand": 26,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 619,
+            "mouseY": 112,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 51,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -2835,19 +3096,19 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 440
             ],
             "pointerPositionFractionalInMorph": [
-                0.521875,
-                0.21818181818181817
+                0.6447916666666667,
+                0.2545454545454545
             ],
             "pointerPositionPixelsInMorph": [
-                501,
-                96
+                619,
+                112
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 501,
-                "y": 96
+                "x": 619,
+                "y": 112
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 111,
+            "millisecondsSincePreviousCommand": 129,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
@@ -2855,255 +3116,374 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandDrop"
         },
         {
-            "mouseX": 499,
-            "mouseY": 96,
+            "mouseX": 618,
+            "mouseY": 112,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 216,
+            "millisecondsSincePreviousCommand": 65,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 486,
-            "mouseY": 96,
+            "mouseX": 616,
+            "mouseY": 112,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 466,
-            "mouseY": 96,
+            "mouseX": 605,
+            "mouseY": 112,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 427,
-            "mouseY": 96,
+            "mouseX": 581,
+            "mouseY": 114,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 339,
-            "mouseY": 86,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 252,
-            "mouseY": 68,
+            "mouseX": 544,
+            "mouseY": 116,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 193,
-            "mouseY": 53,
+            "mouseX": 502,
+            "mouseY": 118,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 455,
+            "mouseY": 120,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 394,
+            "mouseY": 124,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 365,
+            "mouseY": 124,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 339,
+            "mouseY": 124,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 318,
+            "mouseY": 120,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 294,
+            "mouseY": 115,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 270,
+            "mouseY": 108,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 244,
+            "mouseY": 101,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 211,
+            "mouseY": 94,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 200,
+            "mouseY": 92,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 192,
+            "mouseY": 90,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 184,
+            "mouseY": 88,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 176,
+            "mouseY": 87,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 170,
+            "mouseY": 85,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 168,
+            "mouseY": 85,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 166,
+            "mouseY": 84,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 164,
+            "mouseY": 83,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 161,
+            "mouseY": 82,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 158,
+            "mouseY": 80,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 157,
+            "mouseY": 80,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 157,
+            "mouseY": 79,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 27,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 156,
+            "mouseY": 79,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 32,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 156,
+            "mouseY": 78,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 156,
+            "mouseY": 77,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 156,
+            "mouseY": 76,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 155,
+            "mouseY": 76,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 155,
+            "mouseY": 75,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 154,
+            "mouseY": 74,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 154,
+            "mouseY": 73,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 153,
+            "mouseY": 73,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 152,
-            "mouseY": 43,
+            "mouseY": 72,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 151,
+            "mouseY": 71,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 150,
+            "mouseY": 71,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 149,
+            "mouseY": 70,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 30,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 148,
+            "mouseY": 70,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 33,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 147,
+            "mouseY": 69,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 142,
+            "mouseY": 68,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 134,
-            "mouseY": 38,
+            "mouseY": 65,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 126,
+            "mouseY": 63,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 123,
+            "mouseY": 62,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 120,
-            "mouseY": 33,
+            "mouseY": 60,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 114,
-            "mouseY": 31,
+            "mouseX": 119,
+            "mouseY": 59,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 118,
+            "mouseY": 59,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 117,
+            "mouseY": 58,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 113,
-            "mouseY": 30,
+            "mouseX": 117,
+            "mouseY": 57,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 37,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 112,
-            "mouseY": 27,
+            "mouseX": 116,
+            "mouseY": 57,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 26,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 111,
-            "mouseY": 27,
+            "mouseX": 116,
+            "mouseY": 56,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 179,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 108,
-            "mouseY": 27,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 27,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 102,
-            "mouseY": 28,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 99,
-            "mouseY": 29,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 97,
-            "mouseY": 30,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 95,
-            "mouseY": 31,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 93,
-            "mouseY": 32,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 92,
-            "mouseY": 33,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 91,
-            "mouseY": 34,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 90,
-            "mouseY": 34,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 89,
-            "mouseY": 36,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 88,
-            "mouseY": 36,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 23,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 88,
-            "mouseY": 37,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 32,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 87,
-            "mouseY": 38,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 42,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 86,
-            "mouseY": 38,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 5,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 85,
-            "mouseY": 38,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 56,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 85,
-            "mouseY": 39,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 84,
-            "mouseY": 40,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 83,
-            "mouseY": 40,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 81,
-            "mouseY": 41,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 81,
-            "mouseY": 42,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 80,
-            "mouseY": 42,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 136,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -3124,25 +3504,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                54,
-                36,
+                71,
+                46,
                 69,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.37681159420289856,
-                0.4
+                0.6521739130434783,
+                0.6666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                26,
-                6
+                45,
+                10
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 80,
-                "y": 42
+                "x": 116,
+                "y": 56
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 560,
+            "millisecondsSincePreviousCommand": 78,
             "button": "right",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
@@ -3163,25 +3543,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                54,
-                36,
+                71,
+                46,
                 69,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.37681159420289856,
-                0.4
+                0.6521739130434783,
+                0.6666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                26,
-                6
+                45,
+                10
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 80,
-                "y": 42
+                "x": 116,
+                "y": 56
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 6,
+            "millisecondsSincePreviousCommand": 146,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
@@ -3206,22 +3586,22 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                54,
-                36,
+                71,
+                46,
                 69,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.37681159420289856,
-                0.4
+                0.6521739130434783,
+                0.6666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                26,
-                6
+                45,
+                10
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 80,
-                "y": 42
+                "x": 116,
+                "y": 56
             },
             "isPartOfListMorph": false,
             "millisecondsSincePreviousCommand": 1,
@@ -3229,803 +3609,407 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandMouseClick"
         },
         {
-            "mouseX": 82,
-            "mouseY": 42,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 568,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 86,
-            "mouseY": 46,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 88,
-            "mouseY": 48,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 92,
-            "mouseY": 50,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 93,
-            "mouseY": 52,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 94,
-            "mouseY": 53,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 95,
-            "mouseY": 54,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 96,
-            "mouseY": 55,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 96,
+            "mouseX": 117,
             "mouseY": 56,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 317,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 97,
+            "mouseX": 117,
             "mouseY": 57,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 34,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 97,
+            "mouseX": 118,
             "mouseY": 57,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 23,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 97,
+            "mouseX": 118,
             "mouseY": 58,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 24,
+            "millisecondsSincePreviousCommand": 25,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 98,
+            "mouseX": 119,
             "mouseY": 58,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 31,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 98,
+            "mouseX": 119,
             "mouseY": 59,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 48,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 98,
+            "mouseX": 120,
             "mouseY": 60,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 99,
-            "mouseY": 61,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 99,
-            "mouseY": 62,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 32,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 99,
-            "mouseY": 63,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 100,
+            "mouseX": 120,
+            "mouseY": 61,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 121,
+            "mouseY": 61,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 121,
+            "mouseY": 62,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 121,
             "mouseY": 63,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 100,
+            "mouseX": 122,
             "mouseY": 64,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 100,
+            "mouseX": 122,
             "mouseY": 65,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 19,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 100,
-            "mouseY": 67,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 21,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 100,
-            "mouseY": 68,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 100,
-            "mouseY": 70,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 101,
-            "mouseY": 73,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 13,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 102,
-            "mouseY": 76,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 103,
-            "mouseY": 81,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 104,
-            "mouseY": 84,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 104,
-            "mouseY": 87,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 21,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 104,
-            "mouseY": 89,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 13,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 90,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 92,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 94,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 96,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 97,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 98,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 12,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 98,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 21,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 99,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 32,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 100,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 24,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 101,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 102,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 103,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 105,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 105,
-            "mouseY": 106,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 108,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 109,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 110,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 111,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 79,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 111,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 26,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 112,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 30,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 113,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 113,
+            "mouseX": 122,
+            "mouseY": 66,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 39,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 106,
-            "mouseY": 114,
+            "mouseX": 123,
+            "mouseY": 66,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 27,
+            "millisecondsSincePreviousCommand": 33,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 106,
-            "mouseY": 115,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 22,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 116,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 117,
+            "mouseX": 123,
+            "mouseY": 67,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 106,
-            "mouseY": 118,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 119,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 120,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 121,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 123,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 125,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 127,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 129,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 132,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 134,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 137,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 140,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 106,
-            "mouseY": 142,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 144,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 146,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 147,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 149,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 150,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 152,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 153,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 154,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 155,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 156,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 158,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 158,
+            "mouseX": 123,
+            "mouseY": 69,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 160,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 21,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 161,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 162,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 163,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 164,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 165,
+            "mouseX": 125,
+            "mouseY": 74,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 166,
+            "mouseX": 130,
+            "mouseY": 88,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 167,
+            "mouseX": 142,
+            "mouseY": 112,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 15,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 169,
+            "mouseX": 162,
+            "mouseY": 145,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 170,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 171,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 173,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 174,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
+            "mouseX": 179,
             "mouseY": 175,
             "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 192,
+            "mouseY": 197,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 197,
+            "mouseY": 211,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 198,
+            "mouseY": 214,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 198,
+            "mouseY": 215,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 198,
+            "mouseY": 214,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 311,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 197,
+            "mouseY": 211,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 195,
+            "mouseY": 208,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 194,
+            "mouseY": 206,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 194,
+            "mouseY": 205,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 193,
+            "mouseY": 205,
+            "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 20,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 176,
+            "mouseX": 193,
+            "mouseY": 204,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 12,
+            "millisecondsSincePreviousCommand": 23,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 177,
+            "mouseX": 193,
+            "mouseY": 203,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 32,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 193,
+            "mouseY": 202,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 192,
+            "mouseY": 202,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 192,
+            "mouseY": 201,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 192,
+            "mouseY": 200,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 118,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 192,
+            "mouseY": 199,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 25,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 191,
+            "mouseY": 199,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 178,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 180,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 107,
-            "mouseY": 181,
+            "mouseX": 191,
+            "mouseY": 198,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 182,
+            "mouseX": 191,
+            "mouseY": 197,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 35,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 191,
+            "mouseY": 196,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 40,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 190,
+            "mouseY": 196,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 107,
-            "mouseY": 183,
+            "mouseX": 190,
+            "mouseY": 195,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 190,
+            "mouseY": 194,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 70,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "upOrDown": "down",
             "ctrlKey": false,
-            "morphUniqueIDString": "TextMorph#11009",
+            "morphUniqueIDString": "MenuItemMorph#11008",
             "morphPathRelativeToWorld": {
                 "actualPath": [
                     2,
-                    10,
-                    0
+                    10
                 ],
                 "lengthOfChildrenArrays": [
-                    4,
-                    25,
-                    1
+                    3,
+                    25
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "inspect (content of string)",
+                "inspect (text in button)",
                 0,
                 2
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                88,
-                174,
-                42,
+                118,
+                184,
+                94,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.4523809523809524,
-                0.6
+                0.7659574468085106,
+                0.6666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                19,
-                9
+                72,
+                10
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 107,
-                "y": 183
+                "x": 190,
+                "y": 194
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 327,
+            "millisecondsSincePreviousCommand": 106,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
             "upOrDown": "up",
-            "morphUniqueIDString": "TextMorph#11009",
+            "morphUniqueIDString": "MenuItemMorph#11008",
             "morphPathRelativeToWorld": {
                 "actualPath": [
                     2,
-                    10,
-                    0
+                    10
                 ],
                 "lengthOfChildrenArrays": [
                     3,
-                    25,
-                    1
+                    25
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "inspect (content of string)",
+                "inspect (text in button)",
                 0,
                 2
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                88,
-                174,
-                42,
+                118,
+                184,
+                94,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.4523809523809524,
-                0.6
+                0.7659574468085106,
+                0.6666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                19,
-                9
+                72,
+                10
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 107,
-                "y": 183
+                "x": 190,
+                "y": 194
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 56,
+            "millisecondsSincePreviousCommand": 87,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
@@ -4037,269 +4021,232 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
         },
         {
             "ctrlKey": null,
-            "morphUniqueIDString": "TextMorph#11009",
+            "morphUniqueIDString": "MenuItemMorph#11008",
             "morphPathRelativeToWorld": {
                 "actualPath": [
                     2,
-                    10,
-                    0
+                    10
                 ],
                 "lengthOfChildrenArrays": [
                     3,
-                    25,
-                    1
+                    25
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "inspect (content of string)",
+                "inspect (text in button)",
                 0,
                 2
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                88,
-                174,
-                42,
+                118,
+                184,
+                94,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.4523809523809524,
-                0.6
+                0.7659574468085106,
+                0.6666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                19,
-                9
+                72,
+                10
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 107,
-                "y": 183
+                "x": 190,
+                "y": 194
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 1,
+            "millisecondsSincePreviousCommand": 0,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseClick"
         },
         {
-            "mouseX": 110,
-            "mouseY": 183,
+            "mouseX": 191,
+            "mouseY": 194,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 393,
+            "millisecondsSincePreviousCommand": 216,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 116,
-            "mouseY": 183,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 124,
-            "mouseY": 185,
+            "mouseX": 194,
+            "mouseY": 195,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 134,
-            "mouseY": 187,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 148,
-            "mouseY": 190,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 160,
-            "mouseY": 194,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 170,
+            "mouseX": 209,
             "mouseY": 196,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 180,
-            "mouseY": 198,
+            "mouseX": 233,
+            "mouseY": 200,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 187,
-            "mouseY": 200,
+            "mouseX": 254,
+            "mouseY": 201,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 268,
+            "mouseY": 204,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 193,
-            "mouseY": 201,
+            "mouseX": 276,
+            "mouseY": 206,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 196,
-            "mouseY": 202,
+            "mouseX": 279,
+            "mouseY": 207,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 199,
-            "mouseY": 203,
+            "mouseX": 285,
+            "mouseY": 208,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 200,
-            "mouseY": 203,
+            "mouseX": 287,
+            "mouseY": 208,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 201,
-            "mouseY": 203,
+            "mouseX": 288,
+            "mouseY": 208,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 22,
+            "millisecondsSincePreviousCommand": 32,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 202,
-            "mouseY": 203,
+            "mouseX": 289,
+            "mouseY": 208,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 47,
+            "millisecondsSincePreviousCommand": 39,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 202,
-            "mouseY": 203,
+            "mouseX": 290,
+            "mouseY": 208,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 25,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 203,
-            "mouseY": 203,
+            "mouseX": 291,
+            "mouseY": 208,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 38,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 205,
-            "mouseY": 203,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 211,
-            "mouseY": 203,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 215,
-            "mouseY": 203,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 220,
-            "mouseY": 203,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 226,
-            "mouseY": 203,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 230,
-            "mouseY": 202,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 234,
-            "mouseY": 200,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 237,
-            "mouseY": 199,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 239,
-            "mouseY": 198,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 241,
-            "mouseY": 198,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 242,
-            "mouseY": 197,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 243,
-            "mouseY": 197,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 244,
-            "mouseY": 197,
+            "mouseX": 292,
+            "mouseY": 208,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 33,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 245,
-            "mouseY": 196,
+            "mouseX": 293,
+            "mouseY": 208,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 294,
+            "mouseY": 208,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 31,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 246,
-            "mouseY": 195,
+            "mouseX": 295,
+            "mouseY": 208,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 32,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 296,
+            "mouseY": 208,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 297,
+            "mouseY": 208,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 47,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 298,
+            "mouseY": 208,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 299,
+            "mouseY": 208,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 301,
+            "mouseY": 208,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 303,
+            "mouseY": 209,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 304,
+            "mouseY": 209,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 305,
+            "mouseY": 209,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 306,
+            "mouseY": 209,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -4322,282 +4269,219 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 2
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                112,
-                188,
+                195,
+                199,
                 290,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.46206896551724136,
-                0.4666666666666667
+                0.38275862068965516,
+                0.6666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                134,
-                7
+                111,
+                10
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 246,
-                "y": 195
+                "x": 306,
+                "y": 209
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 95,
+            "millisecondsSincePreviousCommand": 49,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
-            "millisecondsSincePreviousCommand": 115,
+            "millisecondsSincePreviousCommand": 109,
             "automatorCommandName": "AutomatorCommandGrab"
         },
         {
-            "mouseX": 246,
-            "mouseY": 194,
+            "mouseX": 306,
+            "mouseY": 208,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 3,
+            "millisecondsSincePreviousCommand": 2,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 246,
-            "mouseY": 188,
+            "mouseX": 306,
+            "mouseY": 205,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 303,
+            "mouseY": 197,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 248,
-            "mouseY": 175,
+            "mouseX": 301,
+            "mouseY": 189,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 14,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 253,
-            "mouseY": 160,
+            "mouseX": 297,
+            "mouseY": 178,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 295,
+            "mouseY": 167,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 290,
+            "mouseY": 154,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 19,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 257,
-            "mouseY": 147,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 259,
-            "mouseY": 139,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 261,
-            "mouseY": 131,
+            "mouseX": 283,
+            "mouseY": 134,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 15,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 262,
+            "mouseX": 281,
+            "mouseY": 128,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 280,
             "mouseY": 127,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 280,
+            "mouseY": 126,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 280,
+            "mouseY": 125,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 279,
+            "mouseY": 125,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 279,
+            "mouseY": 124,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 279,
+            "mouseY": 123,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 279,
+            "mouseY": 122,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 26,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 279,
+            "mouseY": 121,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 39,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 279,
+            "mouseY": 120,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 34,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 279,
+            "mouseY": 119,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 22,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 263,
-            "mouseY": 125,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 264,
-            "mouseY": 124,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 24,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 264,
-            "mouseY": 122,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 266,
-            "mouseY": 120,
+            "mouseX": 280,
+            "mouseY": 119,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 267,
+            "mouseX": 280,
+            "mouseY": 118,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 280,
             "mouseY": 117,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 30,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 268,
+            "mouseX": 281,
+            "mouseY": 117,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 281,
+            "mouseY": 116,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 281,
             "mouseY": 115,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 52,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 269,
-            "mouseY": 113,
+            "mouseX": 282,
+            "mouseY": 115,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 34,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 271,
-            "mouseY": 112,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 271,
-            "mouseY": 111,
+            "mouseX": 282,
+            "mouseY": 114,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 31,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 271,
-            "mouseY": 111,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 32,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 271,
-            "mouseY": 110,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 270,
-            "mouseY": 108,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 269,
-            "mouseY": 106,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 269,
-            "mouseY": 105,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 269,
-            "mouseY": 104,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 268,
-            "mouseY": 102,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 268,
-            "mouseY": 102,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 268,
-            "mouseY": 101,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 42,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 268,
-            "mouseY": 100,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 32,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 267,
-            "mouseY": 99,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 33,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 267,
-            "mouseY": 99,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 38,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 267,
-            "mouseY": 98,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 135,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 267,
-            "mouseY": 97,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 32,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 267,
-            "mouseY": 96,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 36,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 267,
-            "mouseY": 96,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 44,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 267,
-            "mouseY": 95,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 50,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 267,
-            "mouseY": 94,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 24,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 267,
-            "mouseY": 94,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 38,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -4619,150 +4503,24 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 440
             ],
             "pointerPositionFractionalInMorph": [
-                0.278125,
-                0.21363636363636362
+                0.29375,
+                0.2590909090909091
             ],
             "pointerPositionPixelsInMorph": [
-                267,
-                94
+                282,
+                114
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 267,
-                "y": 94
+                "x": 282,
+                "y": 114
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 174,
+            "millisecondsSincePreviousCommand": 455,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
-            "millisecondsSincePreviousCommand": 1,
+            "millisecondsSincePreviousCommand": 0,
             "automatorCommandName": "AutomatorCommandDrop"
-        },
-        {
-            "mouseX": 268,
-            "mouseY": 93,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 413,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 280,
-            "mouseY": 88,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 296,
-            "mouseY": 79,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 316,
-            "mouseY": 68,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 336,
-            "mouseY": 56,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 49,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 360,
-            "mouseY": 42,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 365,
-            "mouseY": 40,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 370,
-            "mouseY": 38,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 373,
-            "mouseY": 37,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 378,
-            "mouseY": 36,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 384,
-            "mouseY": 35,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 389,
-            "mouseY": 33,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 394,
-            "mouseY": 31,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 398,
-            "mouseY": 30,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 400,
-            "mouseY": 30,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 402,
-            "mouseY": 30,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 404,
-            "mouseY": 29,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "scanCode": 18,
@@ -4770,7 +4528,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 156,
+            "millisecondsSincePreviousCommand": 802,
             "automatorCommandName": "AutomatorCommandKeyDown"
         },
         {
@@ -4779,7 +4537,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 176,
+            "millisecondsSincePreviousCommand": 241,
             "automatorCommandName": "AutomatorCommandKeyDown"
         },
         {
@@ -4794,15 +4552,8 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 127,
+            "millisecondsSincePreviousCommand": 139,
             "automatorCommandName": "AutomatorCommandKeyUp"
-        },
-        {
-            "mouseX": 406,
-            "mouseY": 29,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 33,
-            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "scanCode": 18,
@@ -4810,350 +4561,588 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": false,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 39,
             "automatorCommandName": "AutomatorCommandKeyUp"
         },
         {
-            "mouseX": 413,
-            "mouseY": 29,
+            "mouseX": 280,
+            "mouseY": 113,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 2,
+            "millisecondsSincePreviousCommand": 132,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 422,
-            "mouseY": 27,
+            "mouseX": 279,
+            "mouseY": 113,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 279,
+            "mouseY": 112,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 278,
+            "mouseY": 112,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 278,
+            "mouseY": 111,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 100,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 280,
+            "mouseY": 110,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 283,
+            "mouseY": 109,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 291,
+            "mouseY": 105,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 309,
+            "mouseY": 99,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 333,
+            "mouseY": 90,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 435,
-            "mouseY": 24,
+            "mouseX": 359,
+            "mouseY": 83,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 383,
+            "mouseY": 78,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 448,
-            "mouseY": 23,
+            "mouseX": 411,
+            "mouseY": 70,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 463,
-            "mouseY": 21,
+            "mouseX": 429,
+            "mouseY": 66,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 35,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 477,
-            "mouseY": 20,
+            "mouseX": 443,
+            "mouseY": 62,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 2,
+            "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 491,
-            "mouseY": 20,
+            "mouseX": 453,
+            "mouseY": 59,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 459,
+            "mouseY": 58,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 467,
+            "mouseY": 57,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 475,
+            "mouseY": 55,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 487,
+            "mouseY": 53,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 493,
+            "mouseY": 51,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 501,
-            "mouseY": 20,
+            "mouseY": 50,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 509,
+            "mouseY": 49,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 507,
-            "mouseY": 20,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 514,
-            "mouseY": 20,
+            "mouseX": 525,
+            "mouseY": 49,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 520,
-            "mouseY": 21,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 527,
-            "mouseY": 23,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 534,
-            "mouseY": 27,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 542,
-            "mouseY": 31,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 547,
-            "mouseY": 33,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 552,
-            "mouseY": 36,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 556,
-            "mouseY": 38,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 557,
-            "mouseY": 39,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 557,
-            "mouseY": 40,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 558,
-            "mouseY": 41,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 558,
-            "mouseY": 43,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 558,
-            "mouseY": 47,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 558,
-            "mouseY": 52,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 558,
-            "mouseY": 56,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 558,
-            "mouseY": 60,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 558,
-            "mouseY": 62,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 558,
-            "mouseY": 64,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 557,
-            "mouseY": 67,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 556,
-            "mouseY": 70,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 555,
-            "mouseY": 73,
+            "mouseX": 541,
+            "mouseY": 48,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 554,
-            "mouseY": 77,
+            "mouseY": 48,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 565,
+            "mouseY": 48,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 572,
+            "mouseY": 48,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 553,
+            "mouseX": 578,
+            "mouseY": 48,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 583,
+            "mouseY": 48,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 591,
+            "mouseY": 48,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 29,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 597,
+            "mouseY": 49,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 5,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 600,
+            "mouseY": 50,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 603,
+            "mouseY": 52,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 607,
+            "mouseY": 54,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 610,
+            "mouseY": 56,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 612,
+            "mouseY": 57,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 613,
+            "mouseY": 58,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 613,
+            "mouseY": 59,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 614,
+            "mouseY": 59,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 614,
+            "mouseY": 60,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 615,
+            "mouseY": 61,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 618,
+            "mouseY": 64,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 623,
+            "mouseY": 68,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 627,
+            "mouseY": 73,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 631,
+            "mouseY": 76,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 633,
+            "mouseY": 78,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 635,
             "mouseY": 80,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 551,
+            "mouseX": 637,
+            "mouseY": 81,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 638,
+            "mouseY": 81,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 25,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 638,
+            "mouseY": 82,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 640,
             "mouseY": 82,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 550,
-            "mouseY": 83,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 549,
+            "mouseX": 643,
             "mouseY": 84,
             "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 646,
+            "mouseY": 85,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 647,
+            "mouseY": 85,
+            "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 549,
-            "mouseY": 85,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 548,
-            "mouseY": 85,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 547,
+            "mouseX": 648,
             "mouseY": 86,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 28,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 546,
+            "mouseX": 650,
             "mouseY": 87,
             "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 652,
+            "mouseY": 88,
+            "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 545,
-            "mouseY": 89,
+            "mouseX": 654,
+            "mouseY": 90,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 654,
+            "mouseY": 91,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 27,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 655,
+            "mouseY": 91,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 12,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 656,
+            "mouseY": 93,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 544,
-            "mouseY": 90,
+            "mouseX": 657,
+            "mouseY": 94,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 658,
+            "mouseY": 95,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 543,
-            "mouseY": 90,
+            "mouseX": 658,
+            "mouseY": 96,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 659,
+            "mouseY": 96,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 543,
-            "mouseY": 92,
+            "mouseX": 659,
+            "mouseY": 97,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 32,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 543,
-            "mouseY": 93,
+            "mouseX": 660,
+            "mouseY": 97,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 542,
-            "mouseY": 93,
+            "mouseX": 661,
+            "mouseY": 98,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 661,
+            "mouseY": 99,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 22,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 542,
-            "mouseY": 94,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 39,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 543,
-            "mouseY": 94,
-            "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 224,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 544,
-            "mouseY": 94,
+            "mouseX": 662,
+            "mouseY": 99,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 545,
-            "mouseY": 94,
+            "mouseX": 662,
+            "mouseY": 100,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 663,
+            "mouseY": 100,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 663,
+            "mouseY": 101,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 663,
+            "mouseY": 102,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 664,
+            "mouseY": 103,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 664,
+            "mouseY": 104,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 28,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 664,
+            "mouseY": 105,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 32,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 665,
+            "mouseY": 105,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 665,
+            "mouseY": 106,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 665,
+            "mouseY": 107,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 46,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 665,
+            "mouseY": 108,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 42,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 665,
+            "mouseY": 109,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 40,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -5176,352 +5165,324 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 2
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                459,
-                88,
+                528,
+                105,
                 290,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.296551724137931,
-                0.4
+                0.4724137931034483,
+                0.26666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                86,
-                6
+                137,
+                4
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 545,
-                "y": 94
+                "x": 665,
+                "y": 109
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 226,
+            "millisecondsSincePreviousCommand": 129,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
-            "millisecondsSincePreviousCommand": 218,
+            "millisecondsSincePreviousCommand": 117,
             "automatorCommandName": "AutomatorCommandGrab"
         },
         {
-            "mouseX": 541,
-            "mouseY": 94,
+            "mouseX": 664,
+            "mouseY": 109,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 3,
+            "millisecondsSincePreviousCommand": 2,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 530,
-            "mouseY": 94,
+            "mouseX": 661,
+            "mouseY": 110,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 653,
+            "mouseY": 111,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 20,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 518,
-            "mouseY": 97,
+            "mouseX": 640,
+            "mouseY": 115,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 15,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 502,
-            "mouseY": 102,
+            "mouseX": 621,
+            "mouseY": 120,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 21,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 597,
+            "mouseY": 128,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 11,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 486,
-            "mouseY": 105,
+            "mouseX": 574,
+            "mouseY": 135,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 472,
-            "mouseY": 110,
+            "mouseX": 543,
+            "mouseY": 146,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 19,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 452,
-            "mouseY": 116,
+            "mouseX": 525,
+            "mouseY": 152,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
+            "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 435,
-            "mouseY": 122,
+            "mouseX": 512,
+            "mouseY": 156,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 501,
+            "mouseY": 160,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 490,
+            "mouseY": 161,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 482,
+            "mouseY": 162,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 474,
+            "mouseY": 162,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 471,
+            "mouseY": 163,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 464,
+            "mouseY": 163,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 461,
+            "mouseY": 163,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 14,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 455,
+            "mouseY": 163,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 447,
+            "mouseY": 163,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 439,
+            "mouseY": 164,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 434,
+            "mouseY": 164,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 431,
+            "mouseY": 165,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 430,
+            "mouseY": 165,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 429,
+            "mouseY": 165,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 28,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 427,
+            "mouseY": 165,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 9,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 425,
+            "mouseY": 165,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 423,
-            "mouseY": 126,
+            "mouseY": 165,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 421,
+            "mouseY": 165,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 420,
+            "mouseY": 165,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 419,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 13,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 418,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 417,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 416,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 31,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 415,
-            "mouseY": 129,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 407,
-            "mouseY": 131,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 403,
-            "mouseY": 132,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 399,
-            "mouseY": 133,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 396,
-            "mouseY": 133,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 395,
-            "mouseY": 134,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 395,
-            "mouseY": 134,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 393,
-            "mouseY": 134,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 12,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 391,
-            "mouseY": 134,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 386,
-            "mouseY": 134,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 381,
-            "mouseY": 134,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 377,
-            "mouseY": 135,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 371,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 367,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 365,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 361,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 360,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 359,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 357,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 357,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 24,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 356,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 116,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 355,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 354,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 353,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 352,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 353,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 364,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 352,
-            "mouseY": 136,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 88,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 350,
-            "mouseY": 138,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 348,
-            "mouseY": 140,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 345,
-            "mouseY": 141,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 344,
-            "mouseY": 142,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 28,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 343,
-            "mouseY": 142,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 6,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 342,
-            "mouseY": 142,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 342,
-            "mouseY": 141,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 266,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 342,
-            "mouseY": 140,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 66,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 342,
-            "mouseY": 140,
+            "mouseY": 166,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 32,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 342,
-            "mouseY": 139,
+            "mouseX": 414,
+            "mouseY": 166,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 33,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 413,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 410,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 408,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 407,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 53,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 406,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 48,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 405,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 25,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 404,
+            "mouseY": 166,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 39,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -5545,30 +5506,72 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 3
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                233,
-                105,
+                271,
+                122,
                 190,
                 97
             ],
             "pointerPositionFractionalInMorph": [
-                0.5736842105263158,
-                0.35051546391752575
+                0.7,
+                0.4536082474226804
             ],
             "pointerPositionPixelsInMorph": [
-                109,
-                34
+                133,
+                44
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 342,
-                "y": 139
+                "x": 404,
+                "y": 166
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 124,
+            "millisecondsSincePreviousCommand": 168,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
-            "millisecondsSincePreviousCommand": 0,
+            "millisecondsSincePreviousCommand": 1,
             "automatorCommandName": "AutomatorCommandDrop"
+        },
+        {
+            "mouseX": 404,
+            "mouseY": 167,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 120,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 405,
+            "mouseY": 167,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 280,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 407,
+            "mouseY": 167,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 409,
+            "mouseY": 167,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 410,
+            "mouseY": 167,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 411,
+            "mouseY": 167,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "scanCode": 18,
@@ -5576,7 +5579,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 663,
+            "millisecondsSincePreviousCommand": 235,
             "automatorCommandName": "AutomatorCommandKeyDown"
         },
         {
@@ -5585,13 +5588,13 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 208,
+            "millisecondsSincePreviousCommand": 280,
             "automatorCommandName": "AutomatorCommandKeyDown"
         },
         {
             "screenShotImageName": "SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_image_2",
             "screenshotTakenOfAParticularMorph": false,
-            "millisecondsSincePreviousCommand": 1,
+            "millisecondsSincePreviousCommand": 0,
             "automatorCommandName": "AutomatorCommandScreenshot"
         },
         {
@@ -5600,7 +5603,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 107,
+            "millisecondsSincePreviousCommand": 124,
             "automatorCommandName": "AutomatorCommandKeyUp"
         },
         {
@@ -5609,49 +5612,77 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": false,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 40,
+            "millisecondsSincePreviousCommand": 64,
             "automatorCommandName": "AutomatorCommandKeyUp"
         },
         {
-            "mouseX": 343,
-            "mouseY": 139,
+            "mouseX": 411,
+            "mouseY": 168,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 215,
+            "millisecondsSincePreviousCommand": 108,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 345,
-            "mouseY": 139,
+            "mouseX": 410,
+            "mouseY": 168,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 48,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 347,
-            "mouseY": 139,
+            "mouseX": 410,
+            "mouseY": 169,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 349,
-            "mouseY": 139,
+            "mouseX": 409,
+            "mouseY": 169,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 350,
-            "mouseY": 139,
+            "mouseX": 408,
+            "mouseY": 169,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 19,
+            "millisecondsSincePreviousCommand": 29,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 351,
-            "mouseY": 139,
+            "mouseX": 408,
+            "mouseY": 170,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 27,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 407,
+            "mouseY": 170,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 406,
+            "mouseY": 170,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 39,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 405,
+            "mouseY": 170,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 39,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 404,
+            "mouseY": 170,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 119,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -5674,366 +5705,282 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 2
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                260,
-                133,
+                268,
+                162,
                 290,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.3137931034482759,
-                0.4
+                0.4689655172413793,
+                0.5333333333333333
             ],
             "pointerPositionPixelsInMorph": [
-                91,
-                6
+                136,
+                8
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 351,
-                "y": 139
+                "x": 404,
+                "y": 170
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 329,
+            "millisecondsSincePreviousCommand": 218,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
-            "millisecondsSincePreviousCommand": 170,
+            "millisecondsSincePreviousCommand": 142,
             "automatorCommandName": "AutomatorCommandGrab"
         },
         {
-            "mouseX": 351,
-            "mouseY": 140,
+            "mouseX": 404,
+            "mouseY": 171,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 2,
+            "millisecondsSincePreviousCommand": 1,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 351,
-            "mouseY": 147,
+            "mouseX": 404,
+            "mouseY": 173,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 25,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 351,
-            "mouseY": 157,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 351,
-            "mouseY": 165,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 22,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 350,
-            "mouseY": 174,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 350,
-            "mouseY": 181,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 350,
-            "mouseY": 185,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 350,
-            "mouseY": 188,
+            "mouseX": 404,
+            "mouseY": 178,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 350,
-            "mouseY": 189,
+            "mouseX": 403,
+            "mouseY": 186,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
+            "millisecondsSincePreviousCommand": 25,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 349,
-            "mouseY": 191,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 22,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 349,
-            "mouseY": 193,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 11,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 349,
-            "mouseY": 196,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 349,
+            "mouseX": 403,
             "mouseY": 197,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
+            "millisecondsSincePreviousCommand": 9,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 348,
-            "mouseY": 200,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 6,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 348,
-            "mouseY": 202,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 203,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
+            "mouseX": 403,
             "mouseY": 205,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 347,
-            "mouseY": 206,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 207,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 208,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 209,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 210,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 21,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 211,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 212,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
+            "mouseX": 403,
             "mouseY": 213,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 347,
-            "mouseY": 214,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 215,
+            "mouseX": 403,
+            "mouseY": 216,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 23,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 347,
-            "mouseY": 216,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 217,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 218,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 218,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 44,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
+            "mouseX": 403,
             "mouseY": 219,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 220,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 220,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 24,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 222,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 347,
-            "mouseY": 223,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 21,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 346,
-            "mouseY": 223,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 16,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 346,
+            "mouseX": 403,
+            "mouseY": 223,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 11,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 403,
             "mouseY": 224,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 25,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 346,
+            "mouseX": 403,
             "mouseY": 225,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 117,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 346,
-            "mouseY": 226,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 28,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 346,
+            "mouseX": 403,
+            "mouseY": 226,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 403,
             "mouseY": 227,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
+            "millisecondsSincePreviousCommand": 31,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 346,
+            "mouseX": 403,
             "mouseY": 228,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 346,
+            "mouseX": 403,
             "mouseY": 229,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
+            "millisecondsSincePreviousCommand": 25,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 346,
+            "mouseX": 403,
+            "mouseY": 230,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 31,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 403,
             "mouseY": 231,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 345,
-            "mouseY": 231,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 345,
-            "mouseY": 232,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 345,
-            "mouseY": 233,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 33,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 345,
+            "mouseX": 403,
+            "mouseY": 232,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 31,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
             "mouseY": 233,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 26,
+            "millisecondsSincePreviousCommand": 35,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 234,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 30,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 235,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 236,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 237,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 238,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 239,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 32,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 240,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 241,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 23,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 243,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 245,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 247,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 249,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 250,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 251,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 252,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 253,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -6057,25 +6004,25 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 3
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                233,
-                207,
+                271,
+                224,
                 190,
                 51
             ],
             "pointerPositionFractionalInMorph": [
-                0.5894736842105263,
-                0.5098039215686274
+                0.6894736842105263,
+                0.5686274509803921
             ],
             "pointerPositionPixelsInMorph": [
-                112,
-                26
+                131,
+                29
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 345,
-                "y": 233
+                "x": 402,
+                "y": 253
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 155,
+            "millisecondsSincePreviousCommand": 576,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
@@ -6083,13 +6030,258 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandDrop"
         },
         {
+            "mouseX": 402,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 224,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 403,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 56,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 404,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 406,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 407,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 410,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 419,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 434,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 448,
+            "mouseY": 252,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 463,
+            "mouseY": 251,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 468,
+            "mouseY": 250,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 476,
+            "mouseY": 249,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 490,
+            "mouseY": 246,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 505,
+            "mouseY": 242,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 529,
+            "mouseY": 233,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 558,
+            "mouseY": 221,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 612,
+            "mouseY": 202,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 643,
+            "mouseY": 191,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 667,
+            "mouseY": 184,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 675,
+            "mouseY": 180,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 677,
+            "mouseY": 179,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 677,
+            "mouseY": 178,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 20,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
             "scanCode": 18,
             "shiftKey": false,
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 391,
+            "millisecondsSincePreviousCommand": 131,
             "automatorCommandName": "AutomatorCommandKeyDown"
+        },
+        {
+            "mouseX": 677,
+            "mouseY": 177,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 204,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 677,
+            "mouseY": 176,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 678,
+            "mouseY": 174,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 678,
+            "mouseY": 172,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 678,
+            "mouseY": 169,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 679,
+            "mouseY": 167,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 680,
+            "mouseY": 161,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 682,
+            "mouseY": 159,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 685,
+            "mouseY": 150,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 691,
+            "mouseY": 141,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 695,
+            "mouseY": 133,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 697,
+            "mouseY": 127,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 698,
+            "mouseY": 125,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "scanCode": 67,
@@ -6097,7 +6289,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 176,
+            "millisecondsSincePreviousCommand": 23,
             "automatorCommandName": "AutomatorCommandKeyDown"
         },
         {
@@ -6107,13 +6299,62 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "automatorCommandName": "AutomatorCommandScreenshot"
         },
         {
+            "mouseX": 698,
+            "mouseY": 126,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 50,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 698,
+            "mouseY": 129,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 697,
+            "mouseY": 140,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 694,
+            "mouseY": 153,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 693,
+            "mouseY": 169,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
             "scanCode": 67,
             "shiftKey": false,
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 107,
+            "millisecondsSincePreviousCommand": 2,
             "automatorCommandName": "AutomatorCommandKeyUp"
+        },
+        {
+            "mouseX": 692,
+            "mouseY": 180,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 689,
+            "mouseY": 191,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "scanCode": 18,
@@ -6121,70 +6362,357 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": false,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 24,
+            "millisecondsSincePreviousCommand": 13,
             "automatorCommandName": "AutomatorCommandKeyUp"
         },
         {
-            "mouseX": 346,
-            "mouseY": 233,
+            "mouseX": 688,
+            "mouseY": 199,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 511,
+            "millisecondsSincePreviousCommand": 4,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 345,
-            "mouseY": 233,
+            "mouseX": 686,
+            "mouseY": 208,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 184,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 344,
-            "mouseY": 232,
+            "mouseX": 685,
+            "mouseY": 211,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 683,
+            "mouseY": 219,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 344,
-            "mouseY": 232,
+            "mouseX": 679,
+            "mouseY": 230,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 675,
+            "mouseY": 246,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 668,
+            "mouseY": 262,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 662,
+            "mouseY": 278,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 656,
+            "mouseY": 290,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 653,
+            "mouseY": 295,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 650,
+            "mouseY": 298,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 645,
+            "mouseY": 300,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 632,
+            "mouseY": 305,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 605,
+            "mouseY": 308,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 571,
+            "mouseY": 310,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 520,
+            "mouseY": 309,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 494,
+            "mouseY": 306,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 475,
+            "mouseY": 301,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 459,
+            "mouseY": 296,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 443,
+            "mouseY": 288,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 430,
+            "mouseY": 282,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 419,
+            "mouseY": 278,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 410,
+            "mouseY": 274,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 407,
+            "mouseY": 273,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 405,
+            "mouseY": 273,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 272,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 401,
+            "mouseY": 272,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 400,
+            "mouseY": 271,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 400,
+            "mouseY": 270,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 89,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 400,
+            "mouseY": 269,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 26,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 401,
+            "mouseY": 269,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 401,
+            "mouseY": 268,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 267,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 19,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 266,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 402,
+            "mouseY": 265,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 59,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 403,
+            "mouseY": 265,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 49,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 403,
+            "mouseY": 264,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 15,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 403,
+            "mouseY": 263,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 403,
+            "mouseY": 262,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 32,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 343,
-            "mouseY": 232,
+            "mouseX": 403,
+            "mouseY": 261,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 111,
+            "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 342,
-            "mouseY": 232,
+            "mouseX": 403,
+            "mouseY": 260,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 88,
+            "millisecondsSincePreviousCommand": 24,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 341,
-            "mouseY": 232,
+            "mouseX": 404,
+            "mouseY": 259,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 404,
+            "mouseY": 257,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 339,
-            "mouseY": 232,
+            "mouseX": 405,
+            "mouseY": 256,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 405,
+            "mouseY": 255,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 405,
+            "mouseY": 254,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 406,
+            "mouseY": 254,
             "floatDraggingSomething": false,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 338,
-            "mouseY": 231,
+            "mouseX": 406,
+            "mouseY": 253,
             "floatDraggingSomething": false,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 48,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 407,
+            "mouseY": 253,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 64,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 407,
+            "mouseY": 252,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 32,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -6207,345 +6735,177 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                 2
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                254,
-                226,
+                266,
+                244,
                 290,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.2896551724137931,
-                0.3333333333333333
+                0.4862068965517241,
+                0.5333333333333333
             ],
             "pointerPositionPixelsInMorph": [
-                84,
-                5
+                141,
+                8
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 338,
-                "y": 231
+                "x": 407,
+                "y": 252
             },
             "isPartOfListMorph": false,
-            "millisecondsSincePreviousCommand": 335,
+            "millisecondsSincePreviousCommand": 56,
             "button": "left",
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
-            "millisecondsSincePreviousCommand": 195,
+            "millisecondsSincePreviousCommand": 104,
             "automatorCommandName": "AutomatorCommandGrab"
         },
         {
-            "mouseX": 337,
-            "mouseY": 231,
+            "mouseX": 406,
+            "mouseY": 251,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 2,
+            "millisecondsSincePreviousCommand": 1,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 330,
-            "mouseY": 231,
+            "mouseX": 404,
+            "mouseY": 251,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 23,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 324,
-            "mouseY": 231,
+            "mouseX": 400,
+            "mouseY": 251,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 26,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 312,
-            "mouseY": 231,
+            "mouseX": 386,
+            "mouseY": 251,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 299,
-            "mouseY": 231,
+            "mouseX": 360,
+            "mouseY": 251,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 334,
+            "mouseY": 249,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 285,
-            "mouseY": 231,
+            "mouseX": 310,
+            "mouseY": 244,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 270,
-            "mouseY": 231,
+            "mouseX": 286,
+            "mouseY": 237,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 18,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 258,
-            "mouseY": 231,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 246,
-            "mouseY": 231,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 240,
-            "mouseY": 231,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 233,
-            "mouseY": 231,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 227,
-            "mouseY": 230,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 222,
-            "mouseY": 229,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 218,
-            "mouseY": 228,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 215,
-            "mouseY": 227,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 213,
             "mouseY": 226,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 211,
-            "mouseY": 224,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 209,
-            "mouseY": 223,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 205,
-            "mouseY": 220,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 15,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 202,
-            "mouseY": 219,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 200,
-            "mouseY": 217,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 197,
-            "mouseY": 216,
+            "mouseX": 245,
+            "mouseY": 220,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 195,
-            "mouseY": 214,
+            "mouseX": 232,
+            "mouseY": 213,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 194,
-            "mouseY": 213,
+            "mouseX": 220,
+            "mouseY": 205,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 206,
+            "mouseY": 198,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 197,
+            "mouseY": 192,
+            "floatDraggingSomething": true,
+            "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 193,
-            "mouseY": 211,
+            "mouseY": 190,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 192,
-            "mouseY": 210,
+            "mouseX": 191,
+            "mouseY": 190,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 17,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 191,
-            "mouseY": 208,
+            "mouseY": 189,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 190,
-            "mouseY": 206,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 20,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 190,
-            "mouseY": 204,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 10,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 189,
-            "mouseY": 203,
+            "mouseY": 189,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 16,
+            "millisecondsSincePreviousCommand": 18,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "mouseX": 188,
-            "mouseY": 202,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 187,
-            "mouseY": 201,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 186,
-            "mouseY": 200,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 13,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 186,
-            "mouseY": 199,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 185,
-            "mouseY": 199,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 185,
-            "mouseY": 198,
+            "mouseY": 188,
             "floatDraggingSomething": true,
             "millisecondsSincePreviousCommand": 15,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 185,
-            "mouseY": 197,
+            "mouseX": 187,
+            "mouseY": 188,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 102,
+            "millisecondsSincePreviousCommand": 28,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
-            "mouseX": 184,
-            "mouseY": 197,
+            "mouseX": 187,
+            "mouseY": 187,
             "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 25,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 184,
-            "mouseY": 196,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 22,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 183,
-            "mouseY": 196,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 14,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 183,
-            "mouseY": 195,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 182,
-            "mouseY": 194,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 19,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 182,
-            "mouseY": 193,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 181,
-            "mouseY": 193,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 17,
-            "automatorCommandName": "AutomatorCommandMouseMove"
-        },
-        {
-            "mouseX": 180,
-            "mouseY": 193,
-            "floatDraggingSomething": true,
-            "millisecondsSincePreviousCommand": 123,
+            "millisecondsSincePreviousCommand": 46,
             "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
@@ -6557,7 +6917,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                     1,
                     0,
                     0,
-                    5,
+                    4,
                     0
                 ],
                 "lengthOfChildrenArrays": [
@@ -6565,40 +6925,222 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
                     9,
                     3,
                     1,
-                    49,
+                    50,
                     1
                 ]
             },
             "morphIdentifierViaTextLabel": [
-                "cachedTexture (content of string)",
+                "blanksColor (content of string)",
                 0,
                 1
             ],
             "absoluteBoundsOfMorphRelativeToWorld": [
-                141,
+                177,
                 183,
-                83,
+                67,
                 15
             ],
             "pointerPositionFractionalInMorph": [
-                0.46987951807228917,
-                0.6666666666666666
+                0.14925373134328357,
+                0.26666666666666666
             ],
             "pointerPositionPixelsInMorph": [
-                39,
-                10
+                10,
+                4
             ],
             "pointerPositionPixelsInWorld": {
-                "x": 180,
-                "y": 193
+                "x": 187,
+                "y": 187
             },
             "isPartOfListMorph": true,
-            "millisecondsSincePreviousCommand": 47,
+            "millisecondsSincePreviousCommand": 89,
             "automatorCommandName": "AutomatorCommandMouseButtonChange"
         },
         {
-            "millisecondsSincePreviousCommand": 1,
+            "millisecondsSincePreviousCommand": 0,
             "automatorCommandName": "AutomatorCommandDrop"
+        },
+        {
+            "mouseX": 185,
+            "mouseY": 186,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 560,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 182,
+            "mouseY": 185,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 177,
+            "mouseY": 182,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 171,
+            "mouseY": 180,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 161,
+            "mouseY": 177,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 145,
+            "mouseY": 169,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 126,
+            "mouseY": 162,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 110,
+            "mouseY": 156,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 105,
+            "mouseY": 154,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 104,
+            "mouseY": 154,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 103,
+            "mouseY": 153,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 102,
+            "mouseY": 152,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 97,
+            "mouseY": 148,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 91,
+            "mouseY": 142,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 89,
+            "mouseY": 139,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 87,
+            "mouseY": 138,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 86,
+            "mouseY": 138,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 85,
+            "mouseY": 137,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 83,
+            "mouseY": 136,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 80,
+            "mouseY": 134,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 75,
+            "mouseY": 131,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 72,
+            "mouseY": 129,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 22,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 71,
+            "mouseY": 129,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 12,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 69,
+            "mouseY": 128,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 68,
+            "mouseY": 127,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 67,
+            "mouseY": 127,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 40,
+            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "scanCode": 18,
@@ -6606,7 +7148,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 387,
+            "millisecondsSincePreviousCommand": 162,
             "automatorCommandName": "AutomatorCommandKeyDown"
         },
         {
@@ -6615,13 +7157,13 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 352,
+            "millisecondsSincePreviousCommand": 622,
             "automatorCommandName": "AutomatorCommandKeyDown"
         },
         {
             "screenShotImageName": "SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_image_4",
             "screenshotTakenOfAParticularMorph": false,
-            "millisecondsSincePreviousCommand": 1,
+            "millisecondsSincePreviousCommand": 0,
             "automatorCommandName": "AutomatorCommandScreenshot"
         },
         {
@@ -6630,7 +7172,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 122,
+            "millisecondsSincePreviousCommand": 121,
             "automatorCommandName": "AutomatorCommandKeyUp"
         },
         {
@@ -6639,8 +7181,106 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": false,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 64,
+            "millisecondsSincePreviousCommand": 56,
             "automatorCommandName": "AutomatorCommandKeyUp"
+        },
+        {
+            "mouseX": 67,
+            "mouseY": 128,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 348,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 67,
+            "mouseY": 129,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 39,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 67,
+            "mouseY": 130,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 27,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 68,
+            "mouseY": 130,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 39,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 68,
+            "mouseY": 131,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 24,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 69,
+            "mouseY": 131,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 70,
+            "mouseY": 133,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 70,
+            "mouseY": 134,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 16,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 71,
+            "mouseY": 134,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 132,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 71,
+            "mouseY": 135,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 25,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 78,
+            "mouseY": 139,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 86,
+            "mouseY": 143,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 88,
+            "mouseY": 144,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 18,
+            "automatorCommandName": "AutomatorCommandMouseMove"
+        },
+        {
+            "mouseX": 89,
+            "mouseY": 144,
+            "floatDraggingSomething": false,
+            "millisecondsSincePreviousCommand": 17,
+            "automatorCommandName": "AutomatorCommandMouseMove"
         },
         {
             "scanCode": 18,
@@ -6648,7 +7288,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 248,
+            "millisecondsSincePreviousCommand": 1124,
             "automatorCommandName": "AutomatorCommandKeyDown"
         },
         {
@@ -6657,7 +7297,7 @@ SystemTest_inspectorMorphDoesntAcceptDropsAnywhere_automationCommands = {
             "ctrlKey": false,
             "altKey": true,
             "metaKey": false,
-            "millisecondsSincePreviousCommand": 184,
+            "millisecondsSincePreviousCommand": 290,
             "automatorCommandName": "AutomatorCommandKeyDown"
         }
     ]

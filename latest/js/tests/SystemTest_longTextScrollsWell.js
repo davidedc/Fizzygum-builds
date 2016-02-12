@@ -8,7 +8,7 @@
 var SystemTest_longTextScrollsWell;
 
 SystemTest_longTextScrollsWell = {
-    "timeRecorded": "2015-04-20T15:09:26.351Z",
+    "timeRecorded": "2016-02-04T18:24:03.824Z",
     "description": "no description",
     "tags": [
         "noTags",
@@ -33,26 +33,27 @@ SystemTest_longTextScrollsWell = {
         "HandleMorph"
     ],
     "systemInfo": {
-        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36",
-        "screenWidth": 1280,
-        "screenHeight": 800,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36",
+        "screenWidth": 1440,
+        "screenHeight": 900,
         "screenColorDepth": 24,
         "screenPixelRatio": 2,
         "appCodeName": "Mozilla",
         "appName": "Netscape",
-        "appVersion": "5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36",
+        "appVersion": "5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36",
         "cookieEnabled": true,
         "platform": "MacIntel",
         "browser": "Chrome",
-        "browserVersion": "42.0.2311.90",
+        "browserVersion": "48.0.2564.97",
         "mobile": false,
         "os": "Mac OS X",
-        "osVersion": "10_10_2",
+        "osVersion": "10_11_2",
         "cookies": true,
         "AutomatorVersionMajor": 0,
         "AutomatorVersionMinor": 1,
         "AutomatorVersionRelease": 0
     },
-    "maxSpeedupFactor": 6,
-    "testDuration": 38011
+    "testDuration": 43525,
+    "supportsTurboPlayback": true,
+    "skipInbetweenMouseMoves": true
 };

@@ -48,6 +48,7 @@ SystemTest_attachingTextMorphToFrameAndScrollFrame = {
         "AutomatorVersionMinor": 1,
         "AutomatorVersionRelease": 0
     },
-    "maxSpeedupFactor": 6,
+    "supportsTurboPlayback": true,
+    "skipInbetweenMouseMoves": false,
     "testDuration": 45944
 };

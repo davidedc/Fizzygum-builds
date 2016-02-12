@@ -132,6 +132,10 @@ SystemTest_buildAllMorphs_automationCommands = {
             "automatorCommandName": "AutomatorCommandResetWorld"
         },
         {
+            "millisecondsSincePreviousCommand": 1000,
+            "automatorCommandName": "AutomatorCommandTurnOnAnimationsPacingControl"
+        },
+        {
             "mouseX": 227,
             "mouseY": 431,
             "floatDraggingSomething": false,
