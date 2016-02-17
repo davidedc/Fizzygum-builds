@@ -12,6 +12,7 @@ sourcesManifests.push('AutomatorCommandCopy_coffeSource');
 sourcesManifests.push('AutomatorCommandCut_coffeSource');
 sourcesManifests.push('AutomatorCommandDoNothing_coffeSource');
 sourcesManifests.push('AutomatorCommandDrop_coffeSource');
+sourcesManifests.push('AutomatorCommandEvaluateString_coffeSource');
 sourcesManifests.push('AutomatorCommandGrab_coffeSource');
 sourcesManifests.push('AutomatorCommandKeyDown_coffeSource');
 sourcesManifests.push('AutomatorCommandKeyPress_coffeSource');

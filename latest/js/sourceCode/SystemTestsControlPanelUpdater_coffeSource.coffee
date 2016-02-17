@@ -30,6 +30,7 @@ class SystemTestsControlPanelUpdater
   @checkMenuEntriesInOrder: null
   @checkMenuEntriesNotInOrder: null
   @addTestComment: null
+  @evaluateString: null
   @stopTestRec: null
 
   @highlightOnLink: (theElementName) ->
@@ -133,7 +134,7 @@ class SystemTestsControlPanelUpdater
     @SystemTestsControlPanelDiv = document.createElement "div"
     @SystemTestsControlPanelDiv.id = "SystemTestsControlPanel"
     @SystemTestsControlPanelDiv.style.cssText =
-        'border: 1px solid green; overflow: hidden; font-size: x-small; top: 464px; left: 200px; position: absolute;'
+        'border: 1px solid green; overflow: hidden; font-size: xx-small; top: 464px; left: 200px; position: absolute;'
     document.body.appendChild @SystemTestsControlPanelDiv
 
     @addOutputPanel "SystemTestsControlPanelOutputConsoleDiv",
@@ -203,6 +204,9 @@ class SystemTestsControlPanelUpdater
     SystemTestsControlPanelUpdater.addTestComment =
         @addLink "alt+m: add test comment",
             (-> window.world.automatorRecorderAndPlayer.addTestComment())
+    SystemTestsControlPanelUpdater.evaluateString =
+        @addLink "run command",
+            (-> window.world.automatorRecorderAndPlayer.evaluateString())
     SystemTestsControlPanelUpdater.stopTestRec =
         @addLink "alt+t: stop test recording",
             (-> window.world.automatorRecorderAndPlayer.stopTestRecording())
